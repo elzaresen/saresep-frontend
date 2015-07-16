@@ -1,0 +1,53 @@
+body{
+  font-family: Segoe UI;
+}
+.headlines{
+  height: 75vh;
+
+}
+.headline{
+  border: 6px white solid;
+  overflow: hidden;
+}
+.headline>.data{
+  background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.65) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+}
+.headline>.featured-image{
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+  -webkit-transform: scale(1.025);
+  -moz-transform: scale(1.025);
+  transform: scale(1.025);
+  -webkit-transform-origin: 50% 100% 0;
+  -moz-transform-origin: 50% 100% 0;
+  transform-origin: 50% 100% 0;
+  background-position: center center;
+  background-size: cover;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.headline#headline1{
+  height: 100%;
+}
+.headline#headline2, .headline#headline3, .headline#headline4{
+  height: 50%;
+}
+.headline:hover .featured-image{
+  transform-origin: center center;
+  transform: scale(1.2);
+}
