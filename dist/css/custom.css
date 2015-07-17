@@ -1,5 +1,7 @@
 body{
   font-family: Segoe UI;
+}
+.main{
   padding-bottom: 200px;
 }
 h1{
@@ -139,4 +141,12 @@ h1{
 .cat-featured-image{
   height: 200px;
   background-size: cover;
+}
+footer{
+  background-color: #5793D9;
+  padding: 15px 0;
+  color: white;
+}
+footer>.container>h4{
+  font-weight: lighter;
 }
