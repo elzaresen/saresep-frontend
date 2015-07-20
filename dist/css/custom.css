@@ -1,5 +1,6 @@
 body{
   font-family: Segoe UI;
+  background-color: #eee;
 }
 .main{
   padding-bottom: 200px;
@@ -19,7 +20,7 @@ h1{
   }
 }
 .headline{
-  border: 6px white solid;
+  border: 6px #eee solid;
   overflow: hidden;
 }
 .headline>.data{
