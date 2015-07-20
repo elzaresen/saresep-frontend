@@ -128,19 +128,35 @@ h1{
   padding-left: 25px;
 }
 #categoryOne, #categoryOne>a{
-  color: maroon;
+  color: #F44336;
 }
 #categoryTwo, #categoryTwo>a{
-  color: green;
+  color: #4CAF50;
 }
 #categoryThree, #categoryThree>a{
-  color: orange;
+  color: #FF9800;
 }
 #categoryFour, #categoryFour>a{
-  color: blue;
+  color: #607D8B;
 }
 #categoryFive, #categoryFive>a{
-  color: violet;
+  color: #673AB7;
+}
+
+#categoryOneBackground{
+  background-color: #F44336;
+}
+#categoryTwoBackground{
+  background-color: #4CAF50;
+}
+#categoryThreeBackground{
+  background-color: #FF9800;
+}
+#categoryFourBackground{
+  background-color: #607D8B;
+}
+#categoryFiveBackground{
+  background-color: #673AB7;
 }
 .cat-featured-image{
   height: 200px;
