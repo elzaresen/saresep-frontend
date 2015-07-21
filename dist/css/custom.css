@@ -1,9 +1,24 @@
 body{
-  font-family: Segoe UI;
   background-color: #eee;
+}
+p{
+  font-family: SelinaOtech-Light;
+  font-size: 18px;
+}
+h1, h2, h3, .author, .data, .meta, .articleMeta, .type, .comments{
+  font-family: MuseoCyrillic-100;
+}
+.data{
+  font-size: 16px;
+}
+.data>h2{
+  font-family: MuseoCyrillic-700;
 }
 .main{
   padding-bottom: 200px;
+}
+.photoreference{
+  font-family: RotisSemiSansW1G-X;
 }
 h1{
   font-weight: bolder;
@@ -199,9 +214,9 @@ footer>.container>h4{
     height: 1400px;
   }
 
-.headline#headline1, .headline#headline2, .headline#headline3, .headline#headline4{
-  height: 25%;
-}
+  .headline#headline1, .headline#headline2, .headline#headline3, .headline#headline4{
+    height: 25%;
+  }
   .news>{
     margin: 5px 0;
   }
@@ -209,4 +224,89 @@ footer>.container>h4{
   .categoryArticle, .categoryNews{
     padding: 0px;
   }
+}
+.articleHeader{
+  background-size: cover;
+  color: white;
+}
+.articleHeader>.articleBlackout{
+  background-color: rgba(0,0,0,0.3);
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+.articleTitle{
+  margin: 0;
+  font-size: 60px;
+  padding-left: 60px;
+}
+.articleAuthor{
+  margin-top: 15px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.articleAuthor>img{
+  height: 60px;  
+}
+.articleAuthor>span{
+  font-family: 'MuseoCyrillic-100';
+}
+.articleText{
+  padding: 50px 0px;
+}
+.articleText>.col-md-10>p{
+  font-size: 24px;
+}
+
+.articleText>.col-md-10>h1{
+  font-family: 'MuseoCyrillic-700';
+  font-size: 52px;
+  padding: 0
+}
+.articleText>.col-md-10>h2{
+  font-family: 'MuseoCyrillic-700';
+  font-size: 48px;
+}
+.articleText>.col-md-10>h3{
+  font-family: 'MuseoCyrillic-500';
+  font-size: 36px;
+}
+.articleText>.col-md-10>h4{
+  font-family: 'MuseoCyrillic-500';
+  font-size: 24px;
+}
+
+.articleText>.col-md-10>h5{
+  font-family: 'MuseoCyrillic-500';
+  font-size: 18px;
+}
+.articleText>.col-md-10>p{
+  line-height: 36px;
+  font-size: 24px;
+}
+.articleText>.col-md-10>blockquote:after{
+  content: "\f10e";
+  font-family: FontAwesome;
+  display: block;
+  margin: 0 auto;
+  color: #000;
+  font-size: 32px;
+  padding-right: 0.5em;
+  text-align: center;
+}
+.articleText>.col-md-10>blockquote{
+  background-color: #eee;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.articleText>.col-md-10>blockquote>p{
+  font-size: 32px;
+}
+.articleText>.col-md-10>blockquote>footer{
+  font-size: 22px;
+  background-color: inherit;
+  font-family: RotisSemiSansW1G-X;
+}
+li{
+  font-family: SelinaOtech-Light;
+  font-size: 24px;
 }

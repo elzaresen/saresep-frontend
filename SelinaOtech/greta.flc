@@ -1,0 +1,818 @@
+%%FONTLAB CLASSES
+
+%%CLASS _A
+%%GLYPHS  A' Aacute Acircumflex Adieresis Aring Agrave Atilde Abreve Amacron Aogonek uni1EA6 uni1EA4 uni1EAA uni1EA8 uni1EAC uni1EB0 uni1EAE uni1EB4 uni1EB2 uni1EB6 uni1EA2 uni1EA0 uni01CD uni0226 uni01FA
+%%KERNING LR 0
+%%END
+
+%%CLASS _AE
+%%GLYPHS  AE' AEacute AEmacron
+%%KERNING R 0
+%%END
+
+%%CLASS _Alpha1
+%%GLYPHS  Alpha' Alphatonos Delta uni0394 Lambda uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FBC
+%%KERNING L 0
+%%END
+
+%%CLASS _Alpha
+%%GLYPHS  Alpha' Delta uni0394 Lambda uni1FB8 uni1FB9 uni1FBC
+%%KERNING R 0
+%%END
+
+%%CLASS _B
+%%GLYPHS  B' uni1E02 uni1E04 uni1E06
+%%KERNING L 0
+%%END
+
+%%CLASS _C
+%%GLYPHS  C' G O Q Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Gbreve Gcommaaccent Gcircumflex Gdotaccent Ograve Odieresis Otilde Obreve Oacute Ocircumflex Ohungarumlaut Omacron Oslash Oslashacute Ohorn uni1ED2 uni1ED0 uni1ED6 uni1ED4 uni1ED8 uni1ECE uni1ECC uni1EDC uni1EDA uni1EE0 uni1EDE uni1EE2 OE uni01D1 uni01E6 uni01EA uni01EC uni01F4 uni022E uni1E20
+%%KERNING R 0
+%%END
+
+%%CLASS _Epsilontonos
+%%GLYPHS  Epsilontonos' Etatonos Iotatonos uni1F18 uni1F19 uni1FC8 uni1FC9 uni1F29 uni1F28 uni1F98 uni1F99 uni1FCA uni1FCB uni1F38 uni1F39 uni1FDA uni1FDB uni1FEC
+%%KERNING R 0
+%%END
+
+%%CLASS _F
+%%GLYPHS  F' uni00460304 uni1E1E
+%%KERNING L 0
+%%END
+
+%%CLASS _J
+%%GLYPHS  J' uni004A0301 Jcircumflex
+%%KERNING LR 0
+%%END
+
+%%CLASS _K
+%%GLYPHS  K' Kcommaaccent uni01E8 uni1E34 uni1E32
+%%KERNING L 0
+%%END
+
+%%CLASS _L
+%%GLYPHS  L' Lacute Lcaron Lcommaaccent Ldot Lslash
+%%KERNING L 0
+%%END
+
+%%CLASS _M
+%%GLYPHS  M' uni1E42 uni004D0310 uni1E40 uni1E3E
+%%KERNING LR 0
+%%END
+
+%%CLASS _O
+%%GLYPHS  O' Q Dcaron Dcroat Ograve Odieresis Otilde Obreve Oacute Ocircumflex Ohungarumlaut Omacron Oslash Oslashacute Ohorn uni1ED2 uni1ED0 uni1ED6 uni1ED4 uni1ED8 uni1ECE uni1ECC uni1EDC uni1EDA uni1EE0 uni1EDE uni1EE2 uni01D1 uni01EA uni01EC uni022E uni1E0E uni1E0C uni1E0A
+%%KERNING L 0
+%%END
+
+%%CLASS _Omega
+%%GLYPHS  Omega' uni03A9 Omegatonos uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FFA uni1FFB uni1FFC
+%%KERNING L 0
+%%END
+
+%%CLASS _Omicrontonos
+%%GLYPHS  Omicrontonos' Omegatonos uni1F48 uni1F49 uni1FF8 uni1FF9 uni1F68 uni1F69 uni1FA8 uni1FA9 uni1FFA uni1FFB
+%%KERNING R 0
+%%END
+
+%%CLASS _P
+%%GLYPHS  P' uni00500304 uni1E56
+%%KERNING L 0
+%%END
+
+%%CLASS _R
+%%GLYPHS  R' Racute Rcaron uni00520300 Rcommaaccent uni1E5E uni1E5A uni1E5C uni00520325 uni005203250304 uni1E58
+%%KERNING L 0
+%%END
+
+%%CLASS _S
+%%GLYPHS  S' Sacute Scedilla Scaron Scircumflex Scommaaccent uni00530306 uni1E62 uni00530331 uni00530300 uni1E60
+%%KERNING LR 0
+%%END
+
+%%CLASS _T
+%%GLYPHS  T' Tbar Tcaron Tcommaaccent uni021A uni1E6E uni1E6C uni00540308 uni1E6A
+%%KERNING LR 0
+%%END
+
+%%CLASS _Theta1
+%%GLYPHS  Theta' Omicron Omicrontonos uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9
+%%KERNING L 0
+%%END
+
+%%CLASS _Theta
+%%GLYPHS  Theta' Omicron
+%%KERNING R 0
+%%END
+
+%%CLASS _U
+%%GLYPHS  U' Uacute Ucircumflex Ugrave Udieresis Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Uhorn uni1EE6 uni1EE4 uni1EEA uni1EE8 uni1EEE uni1EEC uni1EF0 uni01D3
+%%KERNING LR 0
+%%END
+
+%%CLASS _Upsilon1
+%%GLYPHS  Upsilon' Upsilondieresis Upsilontonos Upsilon.alt Upsilondieresis.alt Upsilontonos.alt uni1F5F uni1F59 uni1F5B uni1F5D uni1FE8 uni1FE9 uni1FEA uni1FEB
+%%KERNING L 0
+%%END
+
+%%CLASS _Upsilon
+%%GLYPHS  Upsilon' Upsilondieresis Upsilon.alt Upsilondieresis.alt uni1FE8 uni1FE9
+%%KERNING R 0
+%%END
+
+%%CLASS _Upsilontonos
+%%GLYPHS  Upsilontonos' Upsilontonos.alt uni1F59 uni1FEA uni1FEB
+%%KERNING R 0
+%%END
+
+%%CLASS _V
+%%GLYPHS  V' W Y uni00560304 Wacute Wcircumflex Wdieresis Wgrave Ydieresis Ycircumflex Ygrave Yacute Ymacron uni1EF8 uni1EF6 uni1EF4 uni1E86 uni1E88 uni1E7E uni1E8E uni1E7C
+%%KERNING LR 0
+%%END
+
+%%CLASS _X
+%%GLYPHS  X' uni00580304 uni1E8A
+%%KERNING LR 0
+%%END
+
+%%CLASS _a.smcp
+%%GLYPHS  a.smcp' abreve.smcp acircumflex.smcp adieresis.smcp agrave.smcp amacron.smcp aogonek.smcp aring.smcp atilde.smcp uni1EA7.smcp uni1EA5.smcp uni1EAB.smcp uni1EA9.smcp uni1EAD.smcp uni1EB1.smcp uni1EAF.smcp uni1EB5.smcp uni1EB3.smcp uni1EB7.smcp uni1EA3.smcp uni1EA1.smcp A.c2sc Aacute.c2sc Abreve.c2sc Acircumflex.c2sc Adieresis.c2sc Agrave.c2sc Amacron.c2sc Aogonek.c2sc Aring.c2sc Atilde.c2sc uni1EA6.c2sc uni1EA4.c2sc uni1EAA.c2sc uni1EA8.c2sc uni1EAC.c2sc uni1EB0.c2sc uni1EAE.c2sc uni1EB4.c2sc uni1EB2.c2sc uni1EB6.c2sc uni1EA2.c2sc uni1EA0.c2sc uni01CD.c2sc uni01CE.smcp uni0226.c2sc uni0227.smcp uni01FA.c2sc uni01FB.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _a
+%%GLYPHS  a' aacute agrave acircumflex adieresis atilde aring abreve amacron aogonek uni1EA7 uni1EA5 uni1EAB uni1EA9 uni1EAD uni1EB1 uni1EAF uni1EB5 uni1EB3 uni1EB7 uni1EA3 uni1EA1 uni01CE uni0227 uni01FB
+%%KERNING LR 0
+%%END
+
+%%CLASS _ae.smcp
+%%GLYPHS  ae.smcp' aeacute.smcp aemacron.smcp AE.c2sc AEacute.c2sc AEmacron.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10018
+%%GLYPHS  afii10018' afii10019 afii10020 afii10022 afii10023 afii10026 afii10027 afii10028 afii10031 afii10033 afii10034 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 afii10050 afii10052 afii10055 afii10056 afii10059 afii10061 afii10145 uni0400 uni040D
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10020
+%%GLYPHS  afii10020' afii10050 afii10052
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10021
+%%GLYPHS  afii10021' afii10029 afii10058
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10024
+%%GLYPHS  afii10024' afii10028 afii10061
+%%KERNING L 0
+%%END
+
+%%CLASS _afii100321
+%%GLYPHS  afii10032' afii10035 afii10038 afii10053 afii10147 uni04D8 afii10053 uni04E8
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10032
+%%GLYPHS  afii10032' afii10038 afii10047 afii10048 afii10147 afii10053 uni04E8
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10036
+%%GLYPHS  afii10036' afii10044 afii10051 afii10060
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10037
+%%GLYPHS  afii10037' uni04AE afii10056
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10044
+%%GLYPHS  afii10044' afii10046 afii10058 afii10059 afii10146
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10065.smcp
+%%GLYPHS  afii10065.smcp' afii10017.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10066.smcp
+%%GLYPHS  afii10066.smcp' afii10067.smcp afii10068.smcp afii10070.smcp afii10071.smcp afii10074.smcp afii10075.smcp afii10076.smcp afii10079.smcp afii10081.smcp afii10082.smcp afii10088.smcp afii10090.smcp afii10091.smcp afii10093.smcp afii10094.smcp afii10096.smcp afii10098.smcp afii10100.smcp afii10103.smcp afii10107.smcp afii10109.smcp afii10193.smcp uni0450.smcp uni045D.smcp afii10023.c2sc afii10052.c2sc afii10055.c2sc afii10059.c2sc afii10061.c2sc uni040D.c2sc afii10145.c2sc afii10018.c2sc afii10019.c2sc afii10020.c2sc afii10022.c2sc afii10026.c2sc afii10027.c2sc afii10028.c2sc afii10031.c2sc afii10033.c2sc afii10040.c2sc afii10042.c2sc afii10043.c2sc afii10045.c2sc afii10046.c2sc afii10048.c2sc afii10050.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10066
+%%GLYPHS  afii10066' afii10080 afii10082 afii10086 afii10095 afii10096 afii10195 afii10846 afii10064 afii10067.BUL afii10096.BUL uni04E9 afii10101
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10067
+%%GLYPHS  afii10067' afii10068 afii10074 afii10075 afii10076 afii10079 afii10081 afii10088 afii10090 afii10091 afii10093 afii10094 afii10096 afii10098 afii10100 afii10107 afii10109 afii10193 afii10063 afii10831 uni045D
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10068.smcp
+%%GLYPHS  afii10068.smcp' afii10098.smcp afii10100.smcp afii10052.c2sc afii10020.c2sc afii10050.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10068
+%%GLYPHS  afii10068' afii10098 afii10100 afii10063
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10069.smcp
+%%GLYPHS  afii10069.smcp' afii10077.smcp afii10106.smcp afii10058.c2sc afii10021.c2sc afii10029.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10070
+%%GLYPHS  afii10070' afii10071 afii10080 afii10083 afii10086 afii10101 afii10195 afii10064 uni0450 afii10067.BUL afii10069.BUL uni04E9 afii10101 afii10101 uni04E9
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10072.smcp1
+%%GLYPHS  afii10072.smcp' afii10076.smcp afii10109.smcp afii10061.c2sc afii10024.c2sc afii10028.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10072.smcp
+%%GLYPHS  afii10072.smcp' afii10024.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii100721
+%%GLYPHS  afii10072' afii10076 afii10087 afii10109 afii10072.BUL afii10076.BUL
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10072
+%%GLYPHS  afii10072' afii10072.BUL
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10074.BUL
+%%GLYPHS  afii10074.BUL' afii10075.BUL afii10088.BUL afii10090.BUL afii10091.BUL
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10077
+%%GLYPHS  afii10077' afii10106 afii10192
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10080.smcp1
+%%GLYPHS  afii10080.smcp' afii10095.smcp afii10096.smcp afii10195.smcp afii10846.smcp afii10032.c2sc afii10047.c2sc afii10048.c2sc afii10147.c2sc uni04D8.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10080.smcp
+%%GLYPHS  afii10080.smcp' afii10083.smcp afii10101.smcp afii10195.smcp afii10846.smcp afii10053.c2sc afii10032.c2sc afii10035.c2sc afii10147.c2sc uni04D8.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10082.smcp
+%%GLYPHS  afii10082.smcp' afii10034.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10084.smcp
+%%GLYPHS  afii10084.smcp' afii10036.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10084
+%%GLYPHS  afii10084' afii10832
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10085.smcp
+%%GLYPHS  afii10085.smcp' afii10110.smcp afii10062.c2sc afii10037.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10085
+%%GLYPHS  afii10085' afii10196 uni04AF afii10104
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10086.smcp
+%%GLYPHS  afii10086.smcp' afii10038.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _afii10089.smcp
+%%GLYPHS  afii10089.smcp' afii10041.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10092.smcp1
+%%GLYPHS  afii10092.smcp' afii10094.smcp afii10106.smcp afii10107.smcp afii10058.c2sc afii10059.c2sc afii10044.c2sc afii10046.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _afii100921
+%%GLYPHS  afii10092' afii10094 afii10106 afii10107 afii10194 afii10092.BUL afii10094.BUL
+%%KERNING L 0
+%%END
+
+%%CLASS _afii10092
+%%GLYPHS  afii10092' afii10194 afii10092.BUL
+%%KERNING R 0
+%%END
+
+%%CLASS _afii10097.smcp
+%%GLYPHS  afii10097.smcp' afii10049.c2sc
+%%KERNING R 0
+%%END
+
+%%CLASS _alpha.alt
+%%GLYPHS  alpha.alt' alphatonos.alt omicron omicrontonos sigma sigma1 phi phi.alt uni1F78 uni1F79 uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45
+%%KERNING R 0
+%%END
+
+%%CLASS _alpha.smcp
+%%GLYPHS  alpha.smcp' alphatonos.smcp delta.smcp lambda.smcp Alphatonos.c2sc Alpha.c2sc Lambda.c2sc Delta.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _alpha
+%%GLYPHS  alpha' alphatonos uni1F70 uni1F71 uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7
+%%KERNING LR 0
+%%END
+
+%%CLASS _b.smcp
+%%GLYPHS  b.smcp' B.c2sc uni1E02.c2sc uni1E03.smcp uni1E04.c2sc uni1E05.smcp uni1E06.c2sc uni1E07.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _b
+%%GLYPHS  b' o p oacute ograve ocircumflex odieresis otilde obreve ohungarumlaut omacron oslash oslashacute ohorn uni1ED3 uni1ED1 uni1ED7 uni1ED5 uni1ED9 uni1ECF uni1ECD uni1EDD uni1EDB uni1EE1 uni1EDF uni1EE3 uni007000AF thorn schwa uni01D2 uni01EB uni01ED uni022F uni1E03 uni1E05 uni1E07 uni1E57
+%%KERNING L 0
+%%END
+
+%%CLASS _backslash
+%%GLYPHS  backslash' backslash.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _braceleft
+%%GLYPHS  braceleft' braceleft.cap
+%%KERNING L 0
+%%END
+
+%%CLASS _bracketleft
+%%GLYPHS  bracketleft' bracketleft.cap
+%%KERNING L 0
+%%END
+
+%%CLASS _c.smcp
+%%GLYPHS  c.smcp' g.smcp o.smcp q.smcp cacute.smcp ccaron.smcp ccedilla.smcp ccircumflex.smcp cdotaccent.smcp gbreve.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp otilde.smcp ohungarumlaut.smcp oslash.smcp oslashacute.smcp omacron.smcp ohorn.smcp uni1ED3.smcp uni1ED1.smcp uni1ED7.smcp uni1ED5.smcp uni1ED9.smcp uni1ECF.smcp uni1ECD.smcp uni1EDD.smcp uni1EDB.smcp uni1EE1.smcp uni1EDF.smcp uni1EE3.smcp C.c2sc G.c2sc O.c2sc Q.c2sc Cacute.c2sc Ccaron.c2sc Ccedilla.c2sc Ccircumflex.c2sc Cdotaccent.c2sc Gbreve.c2sc Gcircumflex.c2sc Gcommaaccent.c2sc Gdotaccent.c2sc Oacute.c2sc Obreve.c2sc Ocircumflex.c2sc Odieresis.c2sc Ograve.c2sc Otilde.c2sc Ohungarumlaut.c2sc Oslash.c2sc Oslashacute.c2sc Omacron.c2sc Ohorn.c2sc uni1ED2.c2sc uni1ED0.c2sc uni1ED6.c2sc uni1ED4.c2sc uni1ED8.c2sc uni1ECE.c2sc uni1ECC.c2sc uni1EDC.c2sc uni1EDA.c2sc uni1EE0.c2sc uni1EDE.c2sc uni1EE2.c2sc uni01D1.c2sc uni01D2.smcp uni01E6.c2sc uni01E7.smcp uni01EA.c2sc uni01EB.smcp uni01EC.c2sc uni01ED.smcp uni01F4.c2sc uni01F5.smcp uni022E.c2sc uni022F.smcp uni1E20.c2sc uni1E21.smcp
+%%KERNING R 0
+%%END
+
+%%CLASS _c
+%%GLYPHS  c' d e o q ccedilla cacute ccaron ccircumflex cdotaccent dcaron dcroat eacute egrave ecircumflex edieresis ebreve ecaron edotaccent emacron uni1EBD eogonek uni1EC1 uni1EBF uni1EC5 uni1EC3 uni1EC7 uni1EBB uni1EB9 uni0065030A oacute ograve ocircumflex odieresis otilde obreve ohungarumlaut omacron oslash oslashacute ohorn uni1ED3 uni1ED1 uni1ED7 uni1ED5 uni1ED9 uni1ECF uni1ECD uni1EDD uni1EDB uni1EE1 uni1EDF uni1EE3 oe schwa eth uni01D2 uni01EB uni01ED uni0229 uni022F uni1E0F uni1E0D uni1E0B
+%%KERNING R 0
+%%END
+
+%%CLASS _chi.smcp
+%%GLYPHS  chi.smcp' Chi.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _comma
+%%GLYPHS  comma' period ellipsis
+%%KERNING LR 0
+%%END
+
+%%CLASS _d.smcp
+%%GLYPHS  d.smcp' o.smcp q.smcp eth.smcp dcaron.smcp dcroat.smcp oacute.smcp obreve.smcp ocircumflex.smcp odieresis.smcp ograve.smcp otilde.smcp ohungarumlaut.smcp oslash.smcp oslashacute.smcp omacron.smcp ohorn.smcp uni1ED3.smcp uni1ED1.smcp uni1ED7.smcp uni1ED5.smcp uni1ED9.smcp uni1ECF.smcp uni1ECD.smcp uni1EDD.smcp uni1EDB.smcp uni1EE1.smcp uni1EDF.smcp uni1EE3.smcp D.c2sc O.c2sc Q.c2sc Eth.c2sc Dcaron.c2sc Dcroat.c2sc Oacute.c2sc Obreve.c2sc Ocircumflex.c2sc Odieresis.c2sc Ograve.c2sc Otilde.c2sc Ohungarumlaut.c2sc Oslash.c2sc Oslashacute.c2sc Omacron.c2sc Ohorn.c2sc uni1ED2.c2sc uni1ED0.c2sc uni1ED6.c2sc uni1ED4.c2sc uni1ED8.c2sc uni1ECE.c2sc uni1ECC.c2sc uni1EDC.c2sc uni1EDA.c2sc uni1EE0.c2sc uni1EDE.c2sc uni1EE2.c2sc uni01D1.c2sc uni01D2.smcp uni01EA.c2sc uni01EB.smcp uni01EC.c2sc uni01ED.smcp uni022E.c2sc uni022F.smcp uni1E0E.c2sc uni1E0F.smcp uni1E0C.c2sc uni1E0D.smcp uni1E0A.c2sc uni1E0B.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _epsilon
+%%GLYPHS  epsilon' epsilontonos uni1F72 uni1F73 uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15
+%%KERNING LR 0
+%%END
+
+%%CLASS _eta
+%%GLYPHS  eta' etatonos uni1F74 uni1F75 uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97
+%%KERNING LR 0
+%%END
+
+%%CLASS _f.smcp
+%%GLYPHS  f.smcp' uni00660304.smcp F.c2sc uni00460304.c2sc uni1E1E.c2sc uni1E1F.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _f
+%%GLYPHS  f' f_f
+%%KERNING L 0
+%%END
+
+%%CLASS _gamma.smcp
+%%GLYPHS  gamma.smcp' Gamma.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _gamma
+%%GLYPHS  gamma' gamma_gamma
+%%KERNING LR 0
+%%END
+
+%%CLASS _guilsinglleft
+%%GLYPHS  guilsinglleft' guilsinglleft.cap guillemotleft guillemotleft.cap
+%%KERNING LR 0
+%%END
+
+%%CLASS _h.smcp
+%%GLYPHS  h.smcp' i.smcp n.smcp hbar.smcp hcircumflex.smcp iacute.smcp ibreve.smcp icircumflex.smcp idieresis.smcp idotaccent.smcp igrave.smcp imacron.smcp iogonek.smcp itilde.smcp uni1EC9.smcp uni1ECB.smcp nacute.smcp napostrophe.smcp ncaron.smcp ncommaaccent.smcp ntilde.smcp uni1E47.smcp uni006E0304.smcp eng.smcp H.c2sc I.c2sc N.c2sc Hbar.c2sc Hcircumflex.c2sc Iacute.c2sc Ibreve.c2sc Icircumflex.c2sc Idieresis.c2sc Idotaccent.c2sc Igrave.c2sc Imacron.c2sc Iogonek.c2sc Itilde.c2sc uni1EC8.c2sc uni1ECA.c2sc Nacute.c2sc Ncaron.c2sc Ncommaaccent.c2sc Ntilde.c2sc uni1E46.c2sc uni004E0304.c2sc Eng.c2sc uni01D0.smcp uni01CF.c2sc uni01F8.c2sc uni01F9.smcp uni021E.c2sc uni021F.smcp uni1E24.c2sc uni1E25.smcp uni00480331.c2sc uni1E96.smcp uni1E2A.c2sc uni1E2B.smcp uni1E48.c2sc uni1E49.smcp uni1E44.c2sc uni1E45.smcp uni1E22.c2sc uni1E23.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _h
+%%GLYPHS  h' m n hbar hcircumflex ntilde nacute napostrophe ncaron ncommaaccent uni1E47 uni006E0304 eng uni01F9 uni021F uni1E25 uni1E96 uni1E2B uni1E43 uni006D0310 uni1E49 uni1E45 uni1E41 uni1E23 uni1E3F
+%%KERNING L 0
+%%END
+
+%%CLASS _hyphen
+%%GLYPHS  hyphen' hyphen.cap endash endash.cap emdash emdash.cap
+%%KERNING LR 0
+%%END
+
+%%CLASS _iota
+%%GLYPHS  iota' iotadieresis iotadieresistonos iotatonos uni1F76 uni1F77 uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7
+%%KERNING L 0
+%%END
+
+%%CLASS _j.smcp
+%%GLYPHS  j.smcp' uni006A0301.smcp jcircumflex.smcp J.c2sc uni004A0301.c2sc Jcircumflex.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _k.smcp
+%%GLYPHS  k.smcp' kcommaaccent.smcp K.c2sc Kcommaaccent.c2sc uni01E8.c2sc uni01E9.smcp uni1E34.c2sc uni1E35.smcp uni1E32.c2sc uni1E33.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _kappa.smcp
+%%GLYPHS  kappa.smcp' Kappa.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _l.smcp
+%%GLYPHS  l.smcp' lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp lslash.smcp L.c2sc Lacute.c2sc Lcaron.c2sc Lcommaaccent.c2sc Ldot.c2sc Lslash.c2sc uni1E3A.c2sc uni1E3B.smcp uni1E36.c2sc uni1E37.smcp uni1E38.c2sc uni1E39.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _lambda
+%%GLYPHS  lambda' lambda_lambda
+%%KERNING LR 0
+%%END
+
+%%CLASS _m.smcp
+%%GLYPHS  m.smcp' M.c2sc uni1E42.c2sc uni1E43.smcp uni004D0310.c2sc uni006D0310.smcp uni1E40.c2sc uni1E41.smcp uni1E3E.c2sc uni1E3F.smcp
+%%KERNING R 0
+%%END
+
+%%CLASS _mu
+%%GLYPHS  mu' uni03BC
+%%KERNING LR 0
+%%END
+
+%%CLASS _omega.smcp
+%%GLYPHS  omega.smcp' omegatonos.smcp Omegatonos.c2sc Omega.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _omega
+%%GLYPHS  omega' omegatonos uni1F7C uni1F7D uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7 uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67
+%%KERNING LR 0
+%%END
+
+%%CLASS _omicron.smcp
+%%GLYPHS  omicron.smcp' omicrontonos.smcp theta.smcp Omicrontonos.c2sc Theta.c2sc Omicron.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _omicron
+%%GLYPHS  omicron' omicrontonos rho phi phi.alt uni1F78 uni1F79 uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45
+%%KERNING L 0
+%%END
+
+%%CLASS _p.smcp
+%%GLYPHS  p.smcp' uni007000AF.smcp P.c2sc uni1E56.c2sc uni1E57.smcp uni00500304.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _parenleft
+%%GLYPHS  parenleft' parenleft.cap
+%%KERNING L 0
+%%END
+
+%%CLASS _parenright
+%%GLYPHS  parenright' parenright.cap
+%%KERNING R 0
+%%END
+
+%%CLASS _phi.smcp
+%%GLYPHS  phi.smcp' Phi.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _psi.smcp
+%%GLYPHS  psi.smcp' Psi.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _quotedblleft
+%%GLYPHS  quotedblleft' quotedblleft.smcp quoteleft quoteleft.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _quotedblright
+%%GLYPHS  quotedblright' quotedblright.smcp quoteright quoteright.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _quotesinglbase
+%%GLYPHS  quotesinglbase' quotedblbase
+%%KERNING L 0
+%%END
+
+%%CLASS _r.smcp
+%%GLYPHS  r.smcp' racute.smcp rcaron.smcp rcommaaccent.smcp uni00720300.smcp R.c2sc Racute.c2sc Rcaron.c2sc Rcommaaccent.c2sc uni00520300.c2sc uni1E5E.c2sc uni1E5F.smcp uni1E5A.c2sc uni1E5B.smcp uni1E5C.c2sc uni1E5D.smcp uni00520325.c2sc uni00720325.smcp uni005203250304.c2sc uni007203250304.smcp uni1E58.c2sc uni1E59.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _r
+%%GLYPHS  r' racute rcaron rcommaaccent uni00720300 uni1E5F uni1E5B uni1E5D uni00720325 uni007203250304 uni1E59
+%%KERNING L 0
+%%END
+
+%%CLASS _rho.smcp
+%%GLYPHS  rho.smcp' Rho.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _s.smcp
+%%GLYPHS  s.smcp' sacute.smcp scaron.smcp scedilla.smcp scircumflex.smcp uni00730306.smcp scommaaccent.smcp uni1E63.smcp S.c2sc Sacute.c2sc Scaron.c2sc Scedilla.c2sc Scircumflex.c2sc uni00530306.c2sc Scommaaccent.c2sc uni1E62.c2sc uni00530331.c2sc uni00730331.smcp uni00530300.c2sc uni00730300.smcp uni1E60.c2sc uni1E61.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _s
+%%GLYPHS  s' sacute scedilla scaron scircumflex uni00730306 uni1E63 scommaaccent uni00730331 uni00730300 uni1E61
+%%KERNING R 0
+%%END
+
+%%CLASS _slash
+%%GLYPHS  slash' slash.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _t.smcp
+%%GLYPHS  t.smcp' tbar.smcp tcaron.smcp tcommaaccent.smcp uni021B.smcp T.c2sc Tbar.c2sc Tcaron.c2sc Tcommaaccent.c2sc uni021A.c2sc uni1E6E.c2sc uni1E6F.smcp uni1E6C.c2sc uni1E6D.smcp uni00540308.c2sc uni1E97.smcp uni1E6A.c2sc uni1E6B.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _t
+%%GLYPHS  t' tbar tcaron uni021B tcommaaccent uni1E6F uni1E6D uni1E97 uni1E6B
+%%KERNING R 0
+%%END
+
+%%CLASS _tau.smcp
+%%GLYPHS  tau.smcp' Tau.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _thorn.smcp
+%%GLYPHS  thorn.smcp' Thorn.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS _u.smcp
+%%GLYPHS  u.smcp' uacute.smcp ubreve.smcp ucircumflex.smcp udieresis.smcp ugrave.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp uhorn.smcp uni1EE7.smcp uni1EEB.smcp uni1EE9.smcp uni1EEF.smcp uni1EED.smcp uni1EF1.smcp uni01D4.smcp U.c2sc Uacute.c2sc Ubreve.c2sc Ucircumflex.c2sc Udieresis.c2sc Ugrave.c2sc Uhungarumlaut.c2sc Umacron.c2sc Uogonek.c2sc Uring.c2sc Utilde.c2sc Uhorn.c2sc uni1EE6.c2sc uni1EE4.c2sc uni1EEA.c2sc uni1EE8.c2sc uni1EEE.c2sc uni1EEC.c2sc uni1EF0.c2sc uni01D3.c2sc uni1EE5.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _u
+%%GLYPHS  u' uacute ugrave ucircumflex udieresis ubreve uhungarumlaut umacron uogonek uring utilde uhorn uni1EE7 uni1EE5 uni1EEB uni1EE9 uni1EEF uni1EED uni1EF1 uni01D4
+%%KERNING R 0
+%%END
+
+%%CLASS _uni1F0A
+%%GLYPHS  uni1F0A' uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F
+%%KERNING R 0
+%%END
+
+%%CLASS _uni1F1A
+%%GLYPHS  uni1F1A' uni1F1B uni1F1C uni1F1D uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F
+%%KERNING R 0
+%%END
+
+%%CLASS _uni1F4A
+%%GLYPHS  uni1F4A' uni1F4B uni1F4C uni1F4D uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF
+%%KERNING R 0
+%%END
+
+%%CLASS _uni1F5F
+%%GLYPHS  uni1F5F' uni1F5B uni1F5D
+%%KERNING R 0
+%%END
+
+%%CLASS _upsilon.smcp
+%%GLYPHS  upsilon.smcp' upsilondieresis.smcp upsilondieresistonos.smcp upsilontonos.smcp upsilon.alt_smcp upsilondieresis.alt_smcp upsilondieresistonos.alt_smcp upsilontonos.alt_smcp Upsilontonos.c2sc Upsilon.c2sc Upsilondieresis.c2sc
+%%KERNING LR 0
+%%END
+
+%%CLASS _upsilon
+%%GLYPHS  upsilon' upsilondieresis upsilontonos upsilondieresistonos uni1F7A uni1F7B uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6 uni1FE7
+%%KERNING LR 0
+%%END
+
+%%CLASS _v.smcp
+%%GLYPHS  v.smcp' w.smcp y.smcp uni00760304.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp ymacron.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp ygrave.smcp uni1EF9.smcp uni1EF7.smcp uni1EF5.smcp V.c2sc W.c2sc Y.c2sc uni00560304.c2sc Wacute.c2sc Wcircumflex.c2sc Wdieresis.c2sc Wgrave.c2sc Ymacron.c2sc Yacute.c2sc Ycircumflex.c2sc Ydieresis.c2sc Ygrave.c2sc uni1EF8.c2sc uni1EF6.c2sc uni1EF4.c2sc uni1E86.c2sc uni1E87.smcp uni1E88.c2sc uni1E89.smcp uni1E7E.c2sc uni1E7F.smcp uni1E8E.c2sc uni1E8F.smcp uni1E7C.c2sc uni1E7D.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _v
+%%GLYPHS  v' w y uni00760304 wacute wcircumflex wdieresis wgrave ydieresis ycircumflex ymacron ygrave yacute uni1EF9 uni1EF7 uni1EF5 uni1E87 uni1E89 uni1E7F uni1E8F uni1E7D
+%%KERNING LR 0
+%%END
+
+%%CLASS _x.smcp
+%%GLYPHS  x.smcp' uni00780304.smcp X.c2sc uni00580304.c2sc uni1E8A.c2sc uni1E8B.smcp
+%%KERNING LR 0
+%%END
+
+%%CLASS _x
+%%GLYPHS  x' uni00780304 uni1E8B
+%%KERNING LR 0
+%%END
+
+%%CLASS _z.smcp
+%%GLYPHS  z.smcp' zacute.smcp zcaron.smcp zdotaccent.smcp Z.c2sc Zacute.c2sc Zcaron.c2sc Zdotaccent.c2sc uni1E94.c2sc uni1E95.smcp uni1E92.c2sc uni1E93.smcp uni005A0324.c2sc uni007A0324.smcp
+%%KERNING L 0
+%%END
+
+%%CLASS _zeta.smcp
+%%GLYPHS  zeta.smcp' Zeta.c2sc
+%%KERNING L 0
+%%END
+
+%%CLASS aalt1
+%%GLYPHS  Euro mill lira colonsign cruzeiro dong franc naira pesetas rupee sheqel won uni20AD uni20AE uni20B1 sterling dollar florin cent yen
+%%END
+
+%%CLASS aalt2
+%%GLYPHS  Scedilla uni01C5 z uni01F2 uni01C8 j uni01CB a b c d e f g h i k l m n o p q r s t u v w x y eacute egrave uni0065030A uni00660304 uni006A0301 comma uni006E0304 uni007000AF uni00720300 scedilla uni00730306 uni00760304 uni00780304 period questiondown exclamdown hyphen hyphen.cap slash parenleft parenleft.cap parenright parenright.cap bracketleft bracketright braceleft braceright bullet asterisk minus plus multiply equal divide afii10066 afii10067 afii10068 afii10069 afii10072 afii10073 afii10074 afii10075 afii10076 afii10077 afii10081 afii10084 afii10088 afii10090 afii10091 afii10092 afii10094 afii10096 zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum uni2460 uni2461 uni2462 uni2463 uni2464 uni2465 uni2466 uni2467 uni2468 uni2776 uni2777 uni2778 uni2779 uni277A uni277B uni277C uni277E uni277F dollar cent currency oneinferior twoinferior fourinferior threeinferior eightinferior fiveinferior seveninferior plussuperior plus.inferior period.superior period.inferior comma.superior comma.inferior dollar.superior dollar.inferior cent.superior cent.inferior zerosuperior zeroinferior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sixinferior sevensuperior eightsuperior ninesuperior parenleftsuperior parenleft.inferior parenrightsuperior parenright.inferior nineinferior arrowdown arrowleft arrowright arrowup uni2196 uni2197 uni2198 uni2199 uni25EE uni1E96 uni006D0310 uni00720325 uni007203250304 uni00730331 uni00730300 uni1E97 uni007A0324 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS aalt3
+%%GLYPHS  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Acircumflex Adieresis Aring Agrave Atilde Abreve Amacron Aogonek uni1EA6 uni1EA4 uni1EAA uni1EA8 uni1EAC uni1EB0 uni1EAE uni1EB4 uni1EB2 uni1EB6 uni1EA2 uni1EA0 AE AEacute AEmacron Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek uni1EC0 uni1EBE uni1EC4 uni1EC2 uni1EC6 uni1EBA uni1EB8 uni1EBC uni0045030A uni00460304 Gbreve Gcommaaccent Gcircumflex Gdotaccent Hbar Hcircumflex Iacute Icircumflex Idieresis Igrave Ibreve Idotaccent Imacron Iogonek uni1EC8 uni1ECA Itilde uni004A0301 Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Ntilde Nacute Ncaron Ncommaaccent uni004E0304 Eng uni1E46 Ograve Odieresis Otilde Obreve Oacute Ocircumflex Ohungarumlaut Omacron Oslash Oslashacute Ohorn uni1ED2 uni1ED0 uni1ED6 uni1ED4 uni1ED8 uni1ECE uni1ECC uni1EDC uni1EDA uni1EE0 uni1EDE uni1EE2 OE uni00500304 Racute Rcaron uni00520300 Rcommaaccent Sacute Scaron Scircumflex Scommaaccent uni00530306 uni1E62 Tbar Tcaron Tcommaaccent uni021A Uacute Ucircumflex Ugrave Udieresis Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Uhorn uni1EE6 uni1EE4 uni1EEA uni1EE8 uni1EEE uni1EEC uni1EF0 uni01D3 uni00560304 Wacute Wcircumflex Wdieresis Wgrave uni00580304 Ydieresis Ycircumflex Ygrave Yacute Ymacron uni1EF8 uni1EF6 uni1EF4 Zacute Zcaron Zdotaccent uni018F Thorn Eth IJ Iacute_Jacute uni01C4 uni01C7 uni01CA uni01F1 aacute agrave acircumflex adieresis atilde aring abreve amacron aogonek uni1EA7 uni1EA5 uni1EAB uni1EA9 uni1EAD uni1EB1 uni1EAF uni1EB5 uni1EB3 uni1EB7 uni1EA3 uni1EA1 ae aeacute aemacron ccedilla cacute ccaron ccircumflex cdotaccent dcaron dcroat ecircumflex edieresis ebreve ecaron edotaccent emacron uni1EBD eogonek uni1EC1 uni1EBF uni1EC5 uni1EC3 uni1EC7 uni1EBB uni1EB9 gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute dotlessi igrave icircumflex idieresis ibreve imacron iogonek itilde uni1EC9 uni1ECB jcircumflex kcommaaccent lacute lcaron lcommaaccent ldot lslash ntilde nacute napostrophe ncaron ncommaaccent uni1E47 eng oacute ograve ocircumflex odieresis otilde obreve ohungarumlaut omacron oslash oslashacute ohorn uni1ED3 uni1ED1 uni1ED7 uni1ED5 uni1ED9 uni1ECF uni1ECD uni1EDD uni1EDB uni1EE1 uni1EDF uni1EE3 oe racute rcaron rcommaaccent sacute scaron scircumflex uni1E63 scommaaccent germandbls tbar tcaron uni021B tcommaaccent uacute ugrave ucircumflex udieresis ubreve uhungarumlaut umacron uogonek uring utilde uhorn uni1EE7 uni1EE5 uni1EEB uni1EE9 uni1EEF uni1EED uni1EF1 uni01D4 wacute wcircumflex wdieresis wgrave ydieresis ycircumflex ymacron ygrave yacute uni1EF9 uni1EF7 uni1EF5 zacute zcaron zdotaccent thorn schwa eth ij iacute_jacute uni01C6 uni01C9 uni01CC uni01F3 question exclam endash emdash ampersand backslash bar uni301A uni301B dblparenleft dblparenright degree paragraph numbersign percent ordfeminine quotesingle quotedbl quotedblleft quotedblright quoteleft quoteright guilsinglleft guilsinglright guillemotleft guillemotright periodcentered fi fl afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10023 afii10024 afii10025 afii10026 afii10027 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 afii10050 afii10051 afii10052 afii10053 afii10054 afii10055 afii10056 afii10057 afii10058 afii10059 afii10060 afii10061 afii10062 afii10145 afii10146 afii10147 afii10148 uni04D8 uni0400 uni040D afii10065 afii10070 afii10071 afii10078 afii10079 afii10080 afii10082 afii10083 afii10085 afii10086 afii10087 afii10089 afii10093 afii10095 afii10097 afii10098 afii10099 afii10100 afii10101 afii10102 afii10103 afii10104 afii10105 afii10106 afii10107 afii10108 afii10109 afii10110 afii10193 afii10194 afii10195 afii10196 afii10846 uni0450 uni045D Alpha Alphatonos Beta Gamma Delta Epsilon Epsilontonos Zeta Eta Etatonos Theta Iota Iotatonos Iotadieresis Kappa Lambda Mu Nu Xi Omicron Omicrontonos Rho Pi Sigma Tau Upsilon Upsilondieresis Upsilontonos Phi Chi Psi Omega Omegatonos alpha alphatonos beta gamma delta epsilon epsilontonos zeta eta etatonos theta iota iotadieresis iotadieresistonos iotatonos kappa lambda mu uni03BC nu xi omicron omicrontonos pi rho sigma sigma1 tau upsilon upsilondieresis upsilontonos upsilondieresistonos phi chi psi omega omegatonos copyright copyright.pnum_onum uni2117 uni2117.pnum_onum uni267E uni267E.pnum_onum Euro a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp eacute.smcp egrave.smcp afii61352 afii61352.pnum_onum multiplysuperior multiplyinferior dividesuperior divideinferior equalsuperior equal.inferior minussuperior minus.inferior uni2731 uni2734 uni274B orn20 orn23 orn24 orn25 orn26 orn27 orn28 orn29 orn30 orn31 orn32 orn33 orn34 orn35 uni25C6 uni2605 uni2648 uni2649 uni264A uni264B uni264C uni264D uni264E uni264F uni2650 uni2651 uni2652 uni2653 uni275B uni275C uni275E uni275D uni021C uni021D uni01CD uni01CE uni01D0 uni01CF uni01D1 uni01D2 uni01E8 uni01E9 uni01E6 uni01E7 uni01EA uni01EB uni01EC uni01ED uni01F4 uni01F5 uni01F8 uni01F9 uni021E uni021F uni0226 uni0227 uni0228 uni0229 uni022E uni022F uni1E0E uni1E0F uni1E0C uni1E0D uni1E24 uni1E25 uni00480331 uni1E2A uni1E2B uni1E3A uni1E3B uni1E36 uni1E37 uni1E38 uni1E39 uni1E42 uni1E43 uni004D0310 uni1E48 uni1E49 uni1E44 uni1E45 uni1E5E uni1E5F uni1E5A uni1E5B uni1E5C uni1E5D uni00520325 uni005203250304 uni00530331 uni00530300 uni1E6E uni1E6F uni1E6C uni1E6D uni00540308 uni1E94 uni1E95 uni1E92 uni1E93 uni005A0324 uni1E20 uni1E21 uni1E40 uni1E41 uni1E02 uni1E03 uni1E22 uni1E23 uni1E04 uni1E05 uni1E06 uni1E07 uni1E56 uni1E57 uni1E86 uni1E87 uni1E58 uni1E59 uni1E88 uni1E89 uni1E6A uni1E6B uni1E8A uni1E8B uni1E1E uni1E1F uni1E3E uni1E3F uni1E7E uni1E7F uni1E8E uni1E8F uni1E7C uni1E7D uni1E34 uni1E35 uni1E32 uni1E33 uni1E60 uni1E61 uni1E0A uni1E0B uni01EE uni01EF uni01FB uni01FA Sigma1 Mu1
+%%END
+
+%%CLASS aalt4
+%%GLYPHS  A.c2sc B.c2sc C.c2sc D.c2sc E.c2sc F.c2sc G.c2sc H.c2sc I.c2sc J.c2sc K.c2sc L.c2sc M.c2sc N.c2sc O.c2sc P.c2sc Q.c2sc R.c2sc S.c2sc T.c2sc U.c2sc V.c2sc W.c2sc X.c2sc Y.c2sc Z.c2sc Aacute.c2sc Acircumflex.c2sc Adieresis.c2sc Aring.c2sc Agrave.c2sc Atilde.c2sc Abreve.c2sc Amacron.c2sc Aogonek.c2sc uni1EA6.c2sc uni1EA4.c2sc uni1EAA.c2sc uni1EA8.c2sc uni1EAC.c2sc uni1EB0.c2sc uni1EAE.c2sc uni1EB4.c2sc uni1EB2.c2sc uni1EB6.c2sc uni1EA2.c2sc uni1EA0.c2sc AE.c2sc AEacute.c2sc AEmacron.c2sc Ccedilla.c2sc Cacute.c2sc Ccaron.c2sc Ccircumflex.c2sc Cdotaccent.c2sc Dcaron.c2sc Dcroat.c2sc Eacute.c2sc Ecircumflex.c2sc Edieresis.c2sc Egrave.c2sc Ebreve.c2sc Ecaron.c2sc Edotaccent.c2sc Emacron.c2sc Eogonek.c2sc uni1EC0.c2sc uni1EBE.c2sc uni1EC4.c2sc uni1EC2.c2sc uni1EC6.c2sc uni1EBA.c2sc uni1EB8.c2sc uni1EBC.c2sc uni0045030A.c2sc uni00460304.c2sc Gbreve.c2sc Gcommaaccent.c2sc Gcircumflex.c2sc Gdotaccent.c2sc Hbar.c2sc Hcircumflex.c2sc Iacute.c2sc Icircumflex.c2sc Idieresis.c2sc Igrave.c2sc Ibreve.c2sc Idotaccent.c2sc Imacron.c2sc Iogonek.c2sc uni1EC8.c2sc uni1ECA.c2sc Itilde.c2sc uni004A0301.c2sc Jcircumflex.c2sc Kcommaaccent.c2sc Lacute.c2sc Lcaron.c2sc Lcommaaccent.c2sc Ldot.c2sc Lslash.c2sc Ntilde.c2sc Nacute.c2sc Ncaron.c2sc Ncommaaccent.c2sc uni004E0304.c2sc Eng.c2sc uni1E46.c2sc Ograve.c2sc Odieresis.c2sc Otilde.c2sc Obreve.c2sc Oacute.c2sc Ocircumflex.c2sc Ohungarumlaut.c2sc Omacron.c2sc Oslash.c2sc Oslashacute.c2sc Ohorn.c2sc uni1ED2.c2sc uni1ED0.c2sc uni1ED6.c2sc uni1ED4.c2sc uni1ED8.c2sc uni1ECE.c2sc uni1ECC.c2sc uni1EDC.c2sc uni1EDA.c2sc uni1EE0.c2sc uni1EDE.c2sc uni1EE2.c2sc OE.c2sc uni00500304.c2sc Racute.c2sc Rcaron.c2sc uni00520300.c2sc Rcommaaccent.c2sc Sacute.c2sc Scaron.c2sc Scircumflex.c2sc Scommaaccent.c2sc uni00530306.c2sc uni1E62.c2sc Tbar.c2sc Tcaron.c2sc Tcommaaccent.c2sc uni021A.c2sc Uacute.c2sc Ucircumflex.c2sc Ugrave.c2sc Udieresis.c2sc Ubreve.c2sc Uhungarumlaut.c2sc Umacron.c2sc Uogonek.c2sc Uring.c2sc Utilde.c2sc Uhorn.c2sc uni1EE6.c2sc uni1EE4.c2sc uni1EEA.c2sc uni1EE8.c2sc uni1EEE.c2sc uni1EEC.c2sc uni1EF0.c2sc uni01D3.c2sc uni00560304.c2sc Wacute.c2sc Wcircumflex.c2sc Wdieresis.c2sc Wgrave.c2sc uni00580304.c2sc Ydieresis.c2sc Ycircumflex.c2sc Ygrave.c2sc Yacute.c2sc Ymacron.c2sc uni1EF8.c2sc uni1EF6.c2sc uni1EF4.c2sc Zacute.c2sc Zcaron.c2sc Zdotaccent.c2sc uni018F.c2sc Thorn.c2sc Eth.c2sc IJ.c2sc Iacute_Jacute.c2sc uni01C4.c2sc uni01C7.c2sc uni01CA.c2sc uni01F1.c2sc aacute.smcp agrave.smcp acircumflex.smcp adieresis.smcp atilde.smcp aring.smcp abreve.smcp amacron.smcp aogonek.smcp uni1EA7.smcp uni1EA5.smcp uni1EAB.smcp uni1EA9.smcp uni1EAD.smcp uni1EB1.smcp uni1EAF.smcp uni1EB5.smcp uni1EB3.smcp uni1EB7.smcp uni1EA3.smcp uni1EA1.smcp ae.smcp aeacute.smcp aemacron.smcp ccedilla.smcp cacute.smcp ccaron.smcp ccircumflex.smcp cdotaccent.smcp dcaron.smcp dcroat.smcp ecircumflex.smcp edieresis.smcp ebreve.smcp ecaron.smcp edotaccent.smcp emacron.smcp uni1EBD.smcp eogonek.smcp uni1EC1.smcp uni1EBF.smcp uni1EC5.smcp uni1EC3.smcp uni1EC7.smcp uni1EBB.smcp uni1EB9.smcp gbreve.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp hbar.smcp hcircumflex.smcp iacute.smcp i.smcp igrave.smcp icircumflex.smcp idieresis.smcp ibreve.smcp imacron.smcp iogonek.smcp itilde.smcp uni1EC9.smcp uni1ECB.smcp jcircumflex.smcp kcommaaccent.smcp lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp lslash.smcp ntilde.smcp nacute.smcp napostrophe.smcp ncaron.smcp ncommaaccent.smcp uni1E47.smcp eng.smcp oacute.smcp ograve.smcp ocircumflex.smcp odieresis.smcp otilde.smcp obreve.smcp ohungarumlaut.smcp omacron.smcp oslash.smcp oslashacute.smcp ohorn.smcp uni1ED3.smcp uni1ED1.smcp uni1ED7.smcp uni1ED5.smcp uni1ED9.smcp uni1ECF.smcp uni1ECD.smcp uni1EDD.smcp uni1EDB.smcp uni1EE1.smcp uni1EDF.smcp uni1EE3.smcp oe.smcp racute.smcp rcaron.smcp rcommaaccent.smcp sacute.smcp scaron.smcp scircumflex.smcp uni1E63.smcp scommaaccent.smcp germandbls.smcp tbar.smcp tcaron.smcp uni021B.smcp tcommaaccent.smcp uacute.smcp ugrave.smcp ucircumflex.smcp udieresis.smcp ubreve.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp uhorn.smcp uni1EE7.smcp uni1EE5.smcp uni1EEB.smcp uni1EE9.smcp uni1EEF.smcp uni1EED.smcp uni1EF1.smcp uni01D4.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp ydieresis.smcp ycircumflex.smcp ymacron.smcp ygrave.smcp yacute.smcp uni1EF9.smcp uni1EF7.smcp uni1EF5.smcp zacute.smcp zcaron.smcp zdotaccent.smcp thorn.smcp schwa.smcp eth.smcp ij.smcp iacute_jacute.smcp uni01C6.smcp uni01C9.smcp uni01CC.smcp uni01F3.smcp question.smcp exclam.smcp endash.cap emdash.cap ampersand.smcp backslash.smcp bar.smcp uni301A.cap uni301B.cap dblparenleft.cap dblparenright.cap degree.smcp paragraph.smcp numbersign.smcp percent.smcp ordfeminine.smcp quotesingle.smcp quotedbl.smcp quotedblleft.smcp quotedblright.smcp quoteleft.smcp quoteright.smcp guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap periodcentered.smcp fi.smcp fl.smcp afii10017.c2sc afii10018.c2sc afii10019.c2sc afii10020.c2sc afii10021.c2sc afii10022.c2sc afii10023.c2sc afii10024.c2sc afii10025.c2sc afii10026.c2sc afii10027.c2sc afii10028.c2sc afii10029.c2sc afii10030.c2sc afii10031.c2sc afii10032.c2sc afii10033.c2sc afii10034.c2sc afii10035.c2sc afii10036.c2sc afii10037.c2sc afii10038.c2sc afii10039.c2sc afii10040.c2sc afii10041.c2sc afii10042.c2sc afii10043.c2sc afii10044.c2sc afii10045.c2sc afii10046.c2sc afii10047.c2sc afii10048.c2sc afii10049.c2sc afii10050.c2sc afii10051.c2sc afii10052.c2sc afii10053.c2sc afii10054.c2sc afii10055.c2sc afii10056.c2sc afii10057.c2sc afii10058.c2sc afii10059.c2sc afii10060.c2sc afii10061.c2sc afii10062.c2sc afii10145.c2sc afii10146.c2sc afii10147.c2sc afii10148.c2sc uni04D8.c2sc uni0400.c2sc uni040D.c2sc afii10065.smcp afii10070.smcp afii10071.smcp afii10078.smcp afii10079.smcp afii10080.smcp afii10082.smcp afii10083.smcp afii10085.smcp afii10086.smcp afii10087.smcp afii10089.smcp afii10093.smcp afii10095.smcp afii10097.smcp afii10098.smcp afii10099.smcp afii10100.smcp afii10101.smcp afii10102.smcp afii10103.smcp afii10104.smcp afii10105.smcp afii10106.smcp afii10107.smcp afii10108.smcp afii10109.smcp afii10110.smcp afii10193.smcp afii10194.smcp afii10195.smcp afii10196.smcp afii10846.smcp uni0450.smcp uni045D.smcp Alpha.c2sc Alphatonos.c2sc Beta.c2sc Gamma.c2sc Delta.c2sc Epsilon.c2sc Epsilontonos.c2sc Zeta.c2sc Eta.c2sc Etatonos.c2sc Theta.c2sc Iota.c2sc Iotatonos.c2sc Iotadieresis.c2sc Kappa.c2sc Lambda.c2sc Mu.c2sc Nu.c2sc Xi.c2sc Omicron.c2sc Omicrontonos.c2sc Rho.c2sc Pi.c2sc Sigma.c2sc Tau.c2sc Upsilon.c2sc Upsilondieresis.c2sc Upsilontonos.c2sc Phi.c2sc Chi.c2sc Psi.c2sc Omega.c2sc Omegatonos.c2sc alpha.smcp alphatonos.smcp beta.smcp gamma.smcp delta.smcp epsilon.smcp epsilontonos.smcp zeta.smcp eta.smcp etatonos.smcp theta.smcp iota.smcp iotadieresis.smcp iotadieresistonos.smcp iotatonos.smcp kappa.smcp lambda.smcp mu.smcp uni03BC.smcp nu.smcp xi.smcp omicron.smcp omicrontonos.smcp pi.smcp rho.smcp sigma.smcp sigma1.smcp tau.smcp upsilon.smcp upsilondieresis.smcp upsilontonos.smcp upsilondieresistonos.smcp phi.smcp chi.smcp psi.smcp omega.smcp omegatonos.smcp copyright.pnum_onum copyright uni2117.pnum_onum uni2117 uni267E.pnum_onum uni267E Euro.smcp a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior eacute.superior egrave.superior afii61352.pnum_onum afii61352 multiplyinferior multiplysuperior divideinferior dividesuperior equal.inferior equalsuperior minus.inferior minussuperior uni2731.alt uni2734.alt uni274B.alt orn20.alt orn23.alt orn24.alt orn25.alt orn26.alt orn27.alt orn28.alt orn29.alt orn30.alt orn31.alt orn32.alt orn33.alt orn34.alt orn35.alt uni25C6.alt uni2605.alt uni2648.alt uni2649.alt uni264A.alt uni264B.alt uni264C.alt uni264D.alt uni264E.alt uni264F.alt uni2650.alt uni2651.alt uni2652.alt uni2653.alt uni275B.alt uni275C.alt uni275E.alt uni275D.alt uni021C.c2sc uni021D.smcp uni01CD.c2sc uni01CE.smcp uni01D0.smcp uni01CF.c2sc uni01D1.c2sc uni01D2.smcp uni01E8.c2sc uni01E9.smcp uni01E6.c2sc uni01E7.smcp uni01EA.c2sc uni01EB.smcp uni01EC.c2sc uni01ED.smcp uni01F4.c2sc uni01F5.smcp uni01F8.c2sc uni01F9.smcp uni021E.c2sc uni021F.smcp uni0226.c2sc uni0227.smcp uni0228.c2sc uni0229.smcp uni022E.c2sc uni022F.smcp uni1E0E.c2sc uni1E0F.smcp uni1E0C.c2sc uni1E0D.smcp uni1E24.c2sc uni1E25.smcp uni00480331.c2sc uni1E2A.c2sc uni1E2B.smcp uni1E3A.c2sc uni1E3B.smcp uni1E36.c2sc uni1E37.smcp uni1E38.c2sc uni1E39.smcp uni1E42.c2sc uni1E43.smcp uni004D0310.c2sc uni1E48.c2sc uni1E49.smcp uni1E44.c2sc uni1E45.smcp uni1E5E.c2sc uni1E5F.smcp uni1E5A.c2sc uni1E5B.smcp uni1E5C.c2sc uni1E5D.smcp uni00520325.c2sc uni005203250304.c2sc uni00530331.c2sc uni00530300.c2sc uni1E6E.c2sc uni1E6F.smcp uni1E6C.c2sc uni1E6D.smcp uni00540308.c2sc uni1E94.c2sc uni1E95.smcp uni1E92.c2sc uni1E93.smcp uni005A0324.c2sc uni1E20.c2sc uni1E21.smcp uni1E40.c2sc uni1E41.smcp uni1E02.c2sc uni1E03.smcp uni1E22.c2sc uni1E23.smcp uni1E04.c2sc uni1E05.smcp uni1E06.c2sc uni1E07.smcp uni1E56.c2sc uni1E57.smcp uni1E86.c2sc uni1E87.smcp uni1E58.c2sc uni1E59.smcp uni1E88.c2sc uni1E89.smcp uni1E6A.c2sc uni1E6B.smcp uni1E8A.c2sc uni1E8B.smcp uni1E1E.c2sc uni1E1F.smcp uni1E3E.c2sc uni1E3F.smcp uni1E7E.c2sc uni1E7F.smcp uni1E8E.c2sc uni1E8F.smcp uni1E7C.c2sc uni1E7D.smcp uni1E34.c2sc uni1E35.smcp uni1E32.c2sc uni1E33.smcp uni1E60.c2sc uni1E61.smcp uni1E0A.c2sc uni1E0B.smcp uni01EE.c2sc uni01EF.smcp uni01FB.smcp uni01FA.c2sc Sigma1.c2sc Mu1.c2sc
+%%END
+
+%%CLASS c2sc1
+%%GLYPHS  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Acircumflex Adieresis Aring Agrave Atilde Abreve Amacron Aogonek uni1EA6 uni1EA4 uni1EAA uni1EA8 uni1EAC uni1EB0 uni1EAE uni1EB4 uni1EB2 uni1EB6 uni1EA2 uni1EA0 AE AEacute AEmacron Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek uni1EC0 uni1EBE uni1EC4 uni1EC2 uni1EC6 uni1EBA uni1EB8 uni1EBC uni0045030A uni00460304 Gbreve Gcommaaccent Gcircumflex Gdotaccent Hbar Hcircumflex Iacute Icircumflex Idieresis Igrave Ibreve Idotaccent Imacron Iogonek uni1EC8 uni1ECA Itilde uni004A0301 Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Ntilde Nacute Ncaron Ncommaaccent uni004E0304 Eng uni1E46 Ograve Odieresis Otilde Obreve Oacute Ocircumflex Ohungarumlaut Omacron Oslash Oslashacute Ohorn uni1ED2 uni1ED0 uni1ED6 uni1ED4 uni1ED8 uni1ECE uni1ECC uni1EDC uni1EDA uni1EE0 uni1EDE uni1EE2 OE uni00500304 Racute Rcaron uni00520300 Rcommaaccent Sacute Scedilla Scaron Scircumflex Scommaaccent uni00530306 uni1E62 Tbar Tcaron Tcommaaccent uni021A Uacute Ucircumflex Ugrave Udieresis Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Uhorn uni1EE6 uni1EE4 uni1EEA uni1EE8 uni1EEE uni1EEC uni1EF0 uni01D3 uni00560304 Wacute Wcircumflex Wdieresis Wgrave uni00580304 Ydieresis Ycircumflex Ygrave Yacute Ymacron uni1EF8 uni1EF6 uni1EF4 Zacute Zcaron Zdotaccent uni018F Thorn Eth IJ Iacute_Jacute uni01C4 uni01C5 uni01C7 uni01CA uni01F1 uni01F2 uni01C8 uni01CB question questiondown exclam exclamdown slash backslash quotedblleft quotedblright quoteleft quoteright afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10023 afii10024 afii10025 afii10026 afii10027 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 afii10050 afii10051 afii10052 afii10053 afii10054 afii10055 afii10056 afii10057 afii10058 afii10059 afii10060 afii10061 afii10062 afii10145 afii10146 afii10147 afii10148 uni04D8 uni0400 uni040D Alpha Alphatonos Beta Gamma Delta Epsilon Epsilontonos Zeta Eta Etatonos Theta Iota Iotatonos Iotadieresis Kappa Lambda Mu Nu Xi Omicron Omicrontonos Rho Pi Sigma Tau Upsilon Upsilondieresis Upsilontonos Phi Chi Psi Omega Omegatonos zero one two three four five six seven eight nine uni021C uni01CD uni01CF uni01D1 uni01E8 uni01E6 uni01EA uni01EC uni01F4 uni01F8 uni021E uni0226 uni0228 uni022E uni1E0E uni1E0C uni1E24 uni00480331 uni1E2A uni1E3A uni1E36 uni1E38 uni1E42 uni004D0310 uni1E48 uni1E44 uni1E5E uni1E5A uni1E5C uni00520325 uni005203250304 uni00530331 uni00530300 uni1E6E uni1E6C uni00540308 uni1E94 uni1E92 uni005A0324 uni1E20 uni1E40 uni1E02 uni1E22 uni1E04 uni1E06 uni1E56 uni1E86 uni1E58 uni1E88 uni1E6A uni1E8A uni1E1E uni1E3E uni1E7E uni1E8E uni1E7C uni1E34 uni1E32 uni1E60 uni1E0A uni01EE uni01FA Sigma1 Mu1
+%%END
+
+%%CLASS c2sc2
+%%GLYPHS  A.c2sc B.c2sc C.c2sc D.c2sc E.c2sc F.c2sc G.c2sc H.c2sc I.c2sc J.c2sc K.c2sc L.c2sc M.c2sc N.c2sc O.c2sc P.c2sc Q.c2sc R.c2sc S.c2sc T.c2sc U.c2sc V.c2sc W.c2sc X.c2sc Y.c2sc Z.c2sc Aacute.c2sc Acircumflex.c2sc Adieresis.c2sc Aring.c2sc Agrave.c2sc Atilde.c2sc Abreve.c2sc Amacron.c2sc Aogonek.c2sc uni1EA6.c2sc uni1EA4.c2sc uni1EAA.c2sc uni1EA8.c2sc uni1EAC.c2sc uni1EB0.c2sc uni1EAE.c2sc uni1EB4.c2sc uni1EB2.c2sc uni1EB6.c2sc uni1EA2.c2sc uni1EA0.c2sc AE.c2sc AEacute.c2sc AEmacron.c2sc Ccedilla.c2sc Cacute.c2sc Ccaron.c2sc Ccircumflex.c2sc Cdotaccent.c2sc Dcaron.c2sc Dcroat.c2sc Eacute.c2sc Ecircumflex.c2sc Edieresis.c2sc Egrave.c2sc Ebreve.c2sc Ecaron.c2sc Edotaccent.c2sc Emacron.c2sc Eogonek.c2sc uni1EC0.c2sc uni1EBE.c2sc uni1EC4.c2sc uni1EC2.c2sc uni1EC6.c2sc uni1EBA.c2sc uni1EB8.c2sc uni1EBC.c2sc uni0045030A.c2sc uni00460304.c2sc Gbreve.c2sc Gcommaaccent.c2sc Gcircumflex.c2sc Gdotaccent.c2sc Hbar.c2sc Hcircumflex.c2sc Iacute.c2sc Icircumflex.c2sc Idieresis.c2sc Igrave.c2sc Ibreve.c2sc Idotaccent.c2sc Imacron.c2sc Iogonek.c2sc uni1EC8.c2sc uni1ECA.c2sc Itilde.c2sc uni004A0301.c2sc Jcircumflex.c2sc Kcommaaccent.c2sc Lacute.c2sc Lcaron.c2sc Lcommaaccent.c2sc Ldot.c2sc Lslash.c2sc Ntilde.c2sc Nacute.c2sc Ncaron.c2sc Ncommaaccent.c2sc uni004E0304.c2sc Eng.c2sc uni1E46.c2sc Ograve.c2sc Odieresis.c2sc Otilde.c2sc Obreve.c2sc Oacute.c2sc Ocircumflex.c2sc Ohungarumlaut.c2sc Omacron.c2sc Oslash.c2sc Oslashacute.c2sc Ohorn.c2sc uni1ED2.c2sc uni1ED0.c2sc uni1ED6.c2sc uni1ED4.c2sc uni1ED8.c2sc uni1ECE.c2sc uni1ECC.c2sc uni1EDC.c2sc uni1EDA.c2sc uni1EE0.c2sc uni1EDE.c2sc uni1EE2.c2sc OE.c2sc uni00500304.c2sc Racute.c2sc Rcaron.c2sc uni00520300.c2sc Rcommaaccent.c2sc Sacute.c2sc Scedilla.c2sc Scaron.c2sc Scircumflex.c2sc Scommaaccent.c2sc uni00530306.c2sc uni1E62.c2sc Tbar.c2sc Tcaron.c2sc Tcommaaccent.c2sc uni021A.c2sc Uacute.c2sc Ucircumflex.c2sc Ugrave.c2sc Udieresis.c2sc Ubreve.c2sc Uhungarumlaut.c2sc Umacron.c2sc Uogonek.c2sc Uring.c2sc Utilde.c2sc Uhorn.c2sc uni1EE6.c2sc uni1EE4.c2sc uni1EEA.c2sc uni1EE8.c2sc uni1EEE.c2sc uni1EEC.c2sc uni1EF0.c2sc uni01D3.c2sc uni00560304.c2sc Wacute.c2sc Wcircumflex.c2sc Wdieresis.c2sc Wgrave.c2sc uni00580304.c2sc Ydieresis.c2sc Ycircumflex.c2sc Ygrave.c2sc Yacute.c2sc Ymacron.c2sc uni1EF8.c2sc uni1EF6.c2sc uni1EF4.c2sc Zacute.c2sc Zcaron.c2sc Zdotaccent.c2sc uni018F.c2sc Thorn.c2sc Eth.c2sc IJ.c2sc Iacute_Jacute.c2sc uni01C4.c2sc uni01C5.c2sc uni01C7.c2sc uni01CA.c2sc uni01F1.c2sc uni01F2.c2sc uni01C8.c2sc uni01CB.c2sc question.smcp questiondown.smcp exclam.smcp exclamdown.smcp slash.smcp backslash.smcp quotedblleft.smcp quotedblright.smcp quoteleft.smcp quoteright.smcp afii10017.c2sc afii10018.c2sc afii10019.c2sc afii10020.c2sc afii10021.c2sc afii10022.c2sc afii10023.c2sc afii10024.c2sc afii10025.c2sc afii10026.c2sc afii10027.c2sc afii10028.c2sc afii10029.c2sc afii10030.c2sc afii10031.c2sc afii10032.c2sc afii10033.c2sc afii10034.c2sc afii10035.c2sc afii10036.c2sc afii10037.c2sc afii10038.c2sc afii10039.c2sc afii10040.c2sc afii10041.c2sc afii10042.c2sc afii10043.c2sc afii10044.c2sc afii10045.c2sc afii10046.c2sc afii10047.c2sc afii10048.c2sc afii10049.c2sc afii10050.c2sc afii10051.c2sc afii10052.c2sc afii10053.c2sc afii10054.c2sc afii10055.c2sc afii10056.c2sc afii10057.c2sc afii10058.c2sc afii10059.c2sc afii10060.c2sc afii10061.c2sc afii10062.c2sc afii10145.c2sc afii10146.c2sc afii10147.c2sc afii10148.c2sc uni04D8.c2sc uni0400.c2sc uni040D.c2sc Alpha.c2sc Alphatonos.c2sc Beta.c2sc Gamma.c2sc Delta.c2sc Epsilon.c2sc Epsilontonos.c2sc Zeta.c2sc Eta.c2sc Etatonos.c2sc Theta.c2sc Iota.c2sc Iotatonos.c2sc Iotadieresis.c2sc Kappa.c2sc Lambda.c2sc Mu.c2sc Nu.c2sc Xi.c2sc Omicron.c2sc Omicrontonos.c2sc Rho.c2sc Pi.c2sc Sigma.c2sc Tau.c2sc Upsilon.c2sc Upsilondieresis.c2sc Upsilontonos.c2sc Phi.c2sc Chi.c2sc Psi.c2sc Omega.c2sc Omegatonos.c2sc zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp uni021C.c2sc uni01CD.c2sc uni01CF.c2sc uni01D1.c2sc uni01E8.c2sc uni01E6.c2sc uni01EA.c2sc uni01EC.c2sc uni01F4.c2sc uni01F8.c2sc uni021E.c2sc uni0226.c2sc uni0228.c2sc uni022E.c2sc uni1E0E.c2sc uni1E0C.c2sc uni1E24.c2sc uni00480331.c2sc uni1E2A.c2sc uni1E3A.c2sc uni1E36.c2sc uni1E38.c2sc uni1E42.c2sc uni004D0310.c2sc uni1E48.c2sc uni1E44.c2sc uni1E5E.c2sc uni1E5A.c2sc uni1E5C.c2sc uni00520325.c2sc uni005203250304.c2sc uni00530331.c2sc uni00530300.c2sc uni1E6E.c2sc uni1E6C.c2sc uni00540308.c2sc uni1E94.c2sc uni1E92.c2sc uni005A0324.c2sc uni1E20.c2sc uni1E40.c2sc uni1E02.c2sc uni1E22.c2sc uni1E04.c2sc uni1E06.c2sc uni1E56.c2sc uni1E86.c2sc uni1E58.c2sc uni1E88.c2sc uni1E6A.c2sc uni1E8A.c2sc uni1E1E.c2sc uni1E3E.c2sc uni1E7E.c2sc uni1E8E.c2sc uni1E7C.c2sc uni1E34.c2sc uni1E32.c2sc uni1E60.c2sc uni1E0A.c2sc uni01EE.c2sc uni01FA.c2sc Sigma1.c2sc Mu1.c2sc
+%%END
+
+%%CLASS case1
+%%GLYPHS  uni0065030A uni00660304 uni006A0301 uni006E0304 uni007000AF uni00720300 uni00730306 uni00760304 uni00780304 questiondown exclamdown hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright uni301A uni301B dblparenleft dblparenright guilsinglleft guilsinglright guillemotleft guillemotright zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum copyright.pnum_onum uni2117.pnum_onum uni267E.pnum_onum afii61352.pnum_onum uni1E96 uni006D0310 uni00720325 uni007203250304 uni00730331 uni00730300 uni1E97 uni007A0324
+%%END
+
+%%CLASS case2
+%%GLYPHS  uni0045030A uni00460304 uni004A0301 uni004E0304 uni00500304 uni00520300 uni00530306 uni00560304 uni00580304 questiondown.cap exclamdown.cap hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap uni301A.cap uni301B.cap dblparenleft.cap dblparenright.cap guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap zero one two three four five six seven eight nine zero.zero zero one two three four five six seven eight nine zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum copyright uni2117 uni267E afii61352 uni00480331 uni004D0310 uni00520325 uni005203250304 uni00530331 uni00530300 uni00540308 uni005A0324
+%%END
+
+%%CLASS class1737
+%%GLYPHS  hyphen plussuperior period.superior comma.superior dollar.superior cent.superior parenleftsuperior parenrightsuperior zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS class1738
+%%GLYPHS  uni2012 plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior parenleft.inferior parenright.inferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior
+%%END
+
+%%CLASS cpsp1
+%%GLYPHS  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Acircumflex Adieresis Aring Agrave Atilde Abreve Amacron Aogonek AE AEacute Ccedilla Cacute Ccaron Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ecircumflex Edieresis Egrave Ebreve Ecaron Edotaccent Emacron Eogonek Gbreve Gcommaaccent Gcircumflex Gdotaccent Hbar Hcircumflex Iacute Icircumflex Idieresis Igrave Ibreve Idotaccent Imacron Iogonek Itilde Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Ntilde Nacute Ncaron Ncommaaccent Eng Ograve Odieresis Otilde Obreve Oacute Ocircumflex Ohungarumlaut Omacron Oslash Oslashacute OE Racute Rcaron Rcommaaccent Sacute Scedilla Scaron Scircumflex Scommaaccent Tbar Tcaron Tcommaaccent Uacute Ucircumflex Ugrave Udieresis Ubreve Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Ydieresis Ycircumflex Ygrave Yacute Zacute Zcaron Zdotaccent Thorn Eth IJ comma period colon semicolon question questiondown questiondown.cap exclam exclamdown exclamdown.cap hyphen hyphen.cap endash endash.cap emdash emdash.cap underscore at ampersand slash backslash bar parenleft parenleft.cap parenright parenright.cap bracketleft bracketleft.cap bracketright bracketright.cap braceleft braceleft.cap braceright braceright.cap bullet paragraph numbersign percent perthousand quotesingle quotedbl quotedblleft quotedblright quoteleft quoteright quotesinglbase quotedblbase guilsinglleft guilsinglright.cap guilsinglright guilsinglleft.cap guillemotleft guillemotleft.cap guillemotright guillemotright.cap brokenbar zero one two three four five six seven eight nine registered copyright Euro dollar cent sterling florin yen franc estimated
+%%END
+
+%%CLASS dnom1
+%%GLYPHS  comma period slash parenleft parenright plus zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum dollar cent plussuperior period.superior comma.superior dollar.superior cent.superior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior parenleftsuperior parenrightsuperior zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS dnom2
+%%GLYPHS  comma.inferior period.inferior fraction parenleft.inferior parenright.inferior plus.inferior zeroinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior dollar.inferior cent.inferior plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior parenleft.inferior parenright.inferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior
+%%END
+
+%%CLASS frac1
+%%GLYPHS  plussuperior period.superior comma.superior dollar.superior cent.superior parenleftsuperior parenrightsuperior zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS frac2
+%%GLYPHS  onehalf fraction oneinferior twoinferior onequarter fourinferior threequarters threeinferior onethird twothirds uni215B eightinferior threesup_fraction_eightinf fivesup_fraction_eightinf fiveinferior sevensup_fraction_eightinf seveninferior plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior zeroinferior sixinferior parenleft.inferior parenright.inferior nineinferior
+%%END
+
+%%CLASS frac3
+%%GLYPHS  comma period hyphen hyphen.cap slash parenleft parenleft.cap parenright parenright.cap minus plus multiply equal zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum uni2460 uni2461 uni2462 uni2463 uni2464 uni2465 uni2466 uni2467 uni2468 uni2776 uni2777 uni2778 uni2779 uni277A uni277B uni277C uni277E uni277F dollar cent oneinferior eightinferior fiveinferior seveninferior multiplyinferior equal.inferior minus.inferior plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior zerosuperior zeroinferior onesuperior fivesuperior sixsuperior sixinferior sevensuperior eightsuperior ninesuperior parenleft.inferior parenright.inferior nineinferior
+%%END
+
+%%CLASS frac4
+%%GLYPHS  comma.superior period.superior minussuperior minussuperior fraction parenleftsuperior parenleftsuperior parenrightsuperior parenrightsuperior minussuperior plussuperior multiplysuperior equalsuperior zero.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr dollar.superior cent.superior one.numr eight.numr five.numr seven.numr multiplysuperior equalsuperior minussuperior plussuperior period.superior comma.superior dollar.superior cent.superior zero.numr zero.numr one.numr five.numr six.numr six.numr seven.numr eight.numr nine.numr parenleftsuperior parenrightsuperior nine.numr
+%%END
+
+%%CLASS lnum1
+%%GLYPHS  questiondown exclamdown hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright uni301A uni301B dblparenleft dblparenright guilsinglleft guilsinglright guillemotleft guillemotright zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum copyright.pnum_onum uni2117.pnum_onum uni267E.pnum_onum afii61352.pnum_onum
+%%END
+
+%%CLASS lnum2
+%%GLYPHS  questiondown.cap exclamdown.cap hyphen.cap endash.cap emdash.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap uni301A.cap uni301B.cap dblparenleft.cap dblparenright.cap guilsinglleft.cap guilsinglright.cap guillemotleft.cap guillemotright.cap zero.zero zero one two three four five six seven eight nine zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum copyright uni2117 uni267E afii61352
+%%END
+
+%%CLASS locl1
+%%GLYPHS  afii10067 afii10068 afii10069 afii10072 afii10073 afii10074 afii10075 afii10076 afii10077 afii10081 afii10084 afii10088 afii10090 afii10091 afii10092 afii10094 afii10096
+%%END
+
+%%CLASS locl2
+%%GLYPHS  afii10067.BUL afii10068.BUL afii10069.BUL afii10072.BUL afii10073.BUL afii10074.BUL afii10075.BUL afii10076.BUL afii10077.BUL afii10081.BUL afii10084.BUL afii10088.BUL afii10090.BUL afii10091.BUL afii10092.BUL afii10094.BUL afii10096.BUL
+%%END
+
+%%CLASS numr1
+%%GLYPHS  comma period slash parenleft parenright plus zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum dollar cent oneinferior twoinferior fourinferior threeinferior eightinferior fiveinferior seveninferior plussuperior period.superior comma.superior dollar.superior cent.superior zeroinferior sixinferior parenleftsuperior parenrightsuperior nineinferior zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS numr2
+%%GLYPHS  comma.superior period.superior fraction parenleftsuperior parenrightsuperior plussuperior zerosuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior dollar.superior cent.superior onesuperior twosuperior foursuperior threesuperior eightsuperior fivesuperior sevensuperior plussuperior period.superior comma.superior dollar.superior cent.superior zerosuperior sixsuperior parenleftsuperior parenrightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior
+%%END
+
+%%CLASS onum1
+%%GLYPHS  zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum copyright uni2117 uni267E afii61352
+%%END
+
+%%CLASS onum2
+%%GLYPHS  zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum copyright.pnum_onum uni2117.pnum_onum uni267E.pnum_onum afii61352.pnum_onum
+%%END
+
+%%CLASS ordn1
+%%GLYPHS  z j a b c d e f g h i k l m n o p q r s t u v w x y eacute egrave a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp eacute.smcp egrave.smcp
+%%END
+
+%%CLASS ordn2
+%%GLYPHS  z.superior j.superior a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior eacute.superior egrave.superior a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior eacute.superior egrave.superior
+%%END
+
+%%CLASS ornm1
+%%GLYPHS  orn01 orn02 orn03 orn04 orn05 orn06 orn07 orn08 orn09 orn10 orn11 orn12 orn13 orn14 orn15 orn16 orn17 orn18 orn19 orn36 orn20 orn20.alt orn21 orn22 orn23 orn23.alt orn24 orn24.alt orn25 orn25.alt orn26 orn26.alt orn27 orn27.alt orn28 orn28.alt orn29 orn29.alt orn30 orn30.alt orn31 orn31.alt orn32 orn32.alt orn33 orn33.alt orn34 orn34.alt orn35 orn35.alt
+%%END
+
+%%CLASS pnum1
+%%GLYPHS  zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum
+%%END
+
+%%CLASS pnum2
+%%GLYPHS  zero one two three four five six seven eight nine zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum
+%%END
+
+%%CLASS salt1
+%%GLYPHS  bullet asterisk arrowdown arrowleft arrowright arrowup uni2196 uni2197 uni2198 uni2199 uni2731 uni2734 uni274B uni25EE orn20 orn23 orn24 orn25 orn26 orn27 orn28 orn29 orn30 orn31 orn32 orn33 orn34 orn35 uni25C6 uni2605 uni2648 uni2649 uni264A uni264B uni264C uni264D uni264E uni264F uni2650 uni2651 uni2652 uni2653 uni275B uni275C uni275E uni275D
+%%END
+
+%%CLASS salt2
+%%GLYPHS  bullet.alt1 asterisk.alt uni2193.alt1 uni2190.alt1 uni2192.alt1 uni2191.alt1 uni2196.alt1 uni2197.alt1 uni2198.alt1 uni2199.alt1 uni2731.alt uni2734.alt uni274B.alt uni25EE.alt1 orn20.alt orn23.alt orn24.alt orn25.alt orn26.alt orn27.alt orn28.alt orn29.alt orn30.alt orn31.alt orn32.alt orn33.alt orn34.alt orn35.alt uni25C6.alt uni2605.alt uni2648.alt uni2649.alt uni264A.alt uni264B.alt uni264C.alt uni264D.alt uni264E.alt uni264F.alt uni2650.alt uni2651.alt uni2652.alt uni2653.alt uni275B.alt uni275C.alt uni275E.alt uni275D.alt
+%%END
+
+%%CLASS sinf1
+%%GLYPHS  z j a b c d e f g h i k l m n o p q r s t u v w x y eacute egrave comma period hyphen hyphen.cap parenleft parenleft.cap parenright parenright.cap minus plus multiply equal divide zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum dollar cent oneinferior twoinferior fourinferior threeinferior eightinferior fiveinferior seveninferior multiplysuperior dividesuperior equalsuperior minussuperior plussuperior period.superior comma.superior dollar.superior cent.superior zeroinferior sixinferior parenleftsuperior parenrightsuperior nineinferior
+%%END
+
+%%CLASS sinf2
+%%GLYPHS  z.inferior j.inferior a.inferior b.inferior c.inferior d.inferior e.inferior f.inferior g.inferior h.inferior i.inferior k.inferior l.inferior m.inferior n.inferior o.inferior p.inferior q.inferior r.inferior s.inferior t.inferior u.inferior v.inferior w.inferior x.inferior y.inferior eacute.inferior egrave.inferior comma.inferior period.inferior minus.inferior minus.inferior parenleft.inferior parenleft.inferior parenright.inferior parenright.inferior minus.inferior plus.inferior multiplyinferior equal.inferior divideinferior zeroinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior dollar.inferior cent.inferior oneinferior twoinferior fourinferior threeinferior eightinferior fiveinferior seveninferior multiplyinferior divideinferior equal.inferior minus.inferior plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior zeroinferior sixinferior parenleft.inferior parenright.inferior nineinferior
+%%END
+
+%%CLASS smcp1
+%%GLYPHS  uni01C5 z uni01F2 uni01C8 j uni01CB a b c d e f g h i k l m n o p q r s t u v w x y aacute agrave acircumflex adieresis atilde aring abreve amacron aogonek uni1EA7 uni1EA5 uni1EAB uni1EA9 uni1EAD uni1EB1 uni1EAF uni1EB5 uni1EB3 uni1EB7 uni1EA3 uni1EA1 ae aeacute aemacron ccedilla cacute ccaron ccircumflex cdotaccent dcaron dcroat eacute egrave ecircumflex edieresis ebreve ecaron edotaccent emacron uni1EBD eogonek uni1EC1 uni1EBF uni1EC5 uni1EC3 uni1EC7 uni1EBB uni1EB9 uni0065030A uni00660304 gbreve gcircumflex gcommaaccent gdotaccent hbar hcircumflex iacute dotlessi igrave icircumflex idieresis ibreve imacron iogonek itilde uni1EC9 uni1ECB jcircumflex uni006A0301 kcommaaccent lacute lcaron lcommaaccent ldot lslash ntilde nacute napostrophe ncaron ncommaaccent uni1E47 uni006E0304 eng oacute ograve ocircumflex odieresis otilde obreve ohungarumlaut omacron oslash oslashacute ohorn uni1ED3 uni1ED1 uni1ED7 uni1ED5 uni1ED9 uni1ECF uni1ECD uni1EDD uni1EDB uni1EE1 uni1EDF uni1EE3 oe uni007000AF racute rcaron rcommaaccent uni00720300 sacute scedilla scaron scircumflex uni00730306 uni1E63 scommaaccent germandbls tbar tcaron uni021B tcommaaccent uacute ugrave ucircumflex udieresis ubreve uhungarumlaut umacron uogonek uring utilde uhorn uni1EE7 uni1EE5 uni1EEB uni1EE9 uni1EEF uni1EED uni1EF1 uni01D4 uni00760304 wacute wcircumflex wdieresis wgrave uni00780304 ydieresis ycircumflex ymacron ygrave yacute uni1EF9 uni1EF7 uni1EF5 zacute zcaron zdotaccent thorn schwa eth ij iacute_jacute uni01C6 uni01C9 uni01CC uni01F3 question questiondown exclam exclamdown ampersand slash backslash bar parenleft parenright bracketleft bracketright braceleft braceright degree paragraph numbersign percent ordfeminine quotesingle quotedbl asterisk periodcentered fi fl afii10065 afii10066 afii10067 afii10068 afii10069 afii10070 afii10071 afii10072 afii10073 afii10074 afii10075 afii10076 afii10077 afii10078 afii10079 afii10080 afii10081 afii10082 afii10083 afii10084 afii10085 afii10086 afii10087 afii10088 afii10089 afii10090 afii10091 afii10092 afii10093 afii10094 afii10095 afii10096 afii10097 afii10098 afii10099 afii10100 afii10101 afii10102 afii10103 afii10104 afii10105 afii10106 afii10107 afii10108 afii10109 afii10110 afii10193 afii10194 afii10195 afii10196 afii10846 uni0450 uni045D alpha alphatonos beta gamma delta epsilon epsilontonos zeta eta etatonos theta iota iotadieresis iotadieresistonos iotatonos kappa lambda mu uni03BC nu xi omicron omicrontonos pi rho sigma sigma1 tau upsilon upsilondieresis upsilontonos upsilondieresistonos phi chi psi omega omegatonos zero one two three four five six seven eight nine copyright uni2117 uni267E Euro dollar afii61352 uni021D uni01CE uni01D0 uni01D2 uni01E9 uni01E7 uni01EB uni01ED uni01F5 uni01F9 uni021F uni0227 uni0229 uni022F uni1E0F uni1E0D uni1E25 uni1E96 uni1E2B uni1E3B uni1E37 uni1E39 uni1E43 uni006D0310 uni1E49 uni1E45 uni1E5F uni1E5B uni1E5D uni00720325 uni007203250304 uni00730331 uni00730300 uni1E6F uni1E6D uni1E97 uni1E95 uni1E93 uni007A0324 uni1E21 uni1E41 uni1E03 uni1E23 uni1E05 uni1E07 uni1E57 uni1E87 uni1E59 uni1E89 uni1E6B uni1E8B uni1E1F uni1E3F uni1E7F uni1E8F uni1E7D uni1E35 uni1E33 uni1E61 uni1E0B uni01EF uni01FB
+%%END
+
+%%CLASS smcp2
+%%GLYPHS  uni01C5.smcp z.smcp uni01F2.smcp uni01C8.smcp j.smcp uni01CB.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp aacute.smcp agrave.smcp acircumflex.smcp adieresis.smcp atilde.smcp aring.smcp abreve.smcp amacron.smcp aogonek.smcp uni1EA7.smcp uni1EA5.smcp uni1EAB.smcp uni1EA9.smcp uni1EAD.smcp uni1EB1.smcp uni1EAF.smcp uni1EB5.smcp uni1EB3.smcp uni1EB7.smcp uni1EA3.smcp uni1EA1.smcp ae.smcp aeacute.smcp aemacron.smcp ccedilla.smcp cacute.smcp ccaron.smcp ccircumflex.smcp cdotaccent.smcp dcaron.smcp dcroat.smcp eacute.smcp egrave.smcp ecircumflex.smcp edieresis.smcp ebreve.smcp ecaron.smcp edotaccent.smcp emacron.smcp uni1EBD.smcp eogonek.smcp uni1EC1.smcp uni1EBF.smcp uni1EC5.smcp uni1EC3.smcp uni1EC7.smcp uni1EBB.smcp uni1EB9.smcp uni0065030A.smcp uni00660304.smcp gbreve.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp hbar.smcp hcircumflex.smcp iacute.smcp i.smcp igrave.smcp icircumflex.smcp idieresis.smcp ibreve.smcp imacron.smcp iogonek.smcp itilde.smcp uni1EC9.smcp uni1ECB.smcp jcircumflex.smcp uni006A0301.smcp kcommaaccent.smcp lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp lslash.smcp ntilde.smcp nacute.smcp napostrophe.smcp ncaron.smcp ncommaaccent.smcp uni1E47.smcp uni006E0304.smcp eng.smcp oacute.smcp ograve.smcp ocircumflex.smcp odieresis.smcp otilde.smcp obreve.smcp ohungarumlaut.smcp omacron.smcp oslash.smcp oslashacute.smcp ohorn.smcp uni1ED3.smcp uni1ED1.smcp uni1ED7.smcp uni1ED5.smcp uni1ED9.smcp uni1ECF.smcp uni1ECD.smcp uni1EDD.smcp uni1EDB.smcp uni1EE1.smcp uni1EDF.smcp uni1EE3.smcp oe.smcp uni007000AF.smcp racute.smcp rcaron.smcp rcommaaccent.smcp uni00720300.smcp sacute.smcp scedilla.smcp scaron.smcp scircumflex.smcp uni00730306.smcp uni1E63.smcp scommaaccent.smcp germandbls.smcp tbar.smcp tcaron.smcp uni021B.smcp tcommaaccent.smcp uacute.smcp ugrave.smcp ucircumflex.smcp udieresis.smcp ubreve.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp uhorn.smcp uni1EE7.smcp uni1EE5.smcp uni1EEB.smcp uni1EE9.smcp uni1EEF.smcp uni1EED.smcp uni1EF1.smcp uni01D4.smcp uni00760304.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp uni00780304.smcp ydieresis.smcp ycircumflex.smcp ymacron.smcp ygrave.smcp yacute.smcp uni1EF9.smcp uni1EF7.smcp uni1EF5.smcp zacute.smcp zcaron.smcp zdotaccent.smcp thorn.smcp schwa.smcp eth.smcp ij.smcp iacute_jacute.smcp uni01C6.smcp uni01C9.smcp uni01CC.smcp uni01F3.smcp question.smcp questiondown.smcp exclam.smcp exclamdown.smcp ampersand.smcp slash.smcp backslash.smcp bar.smcp parenleft.smcp parenright.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp degree.smcp paragraph.smcp numbersign.smcp percent.smcp ordfeminine.smcp quotesingle.smcp quotedbl.smcp asterisk.smcp periodcentered.smcp fi.smcp fl.smcp afii10065.smcp afii10066.smcp afii10067.smcp afii10068.smcp afii10069.smcp afii10070.smcp afii10071.smcp afii10072.smcp afii10073.smcp afii10074.smcp afii10075.smcp afii10076.smcp afii10077.smcp afii10078.smcp afii10079.smcp afii10080.smcp afii10081.smcp afii10082.smcp afii10083.smcp afii10084.smcp afii10085.smcp afii10086.smcp afii10087.smcp afii10088.smcp afii10089.smcp afii10090.smcp afii10091.smcp afii10092.smcp afii10093.smcp afii10094.smcp afii10095.smcp afii10096.smcp afii10097.smcp afii10098.smcp afii10099.smcp afii10100.smcp afii10101.smcp afii10102.smcp afii10103.smcp afii10104.smcp afii10105.smcp afii10106.smcp afii10107.smcp afii10108.smcp afii10109.smcp afii10110.smcp afii10193.smcp afii10194.smcp afii10195.smcp afii10196.smcp afii10846.smcp uni0450.smcp uni045D.smcp alpha.smcp alphatonos.smcp beta.smcp gamma.smcp delta.smcp epsilon.smcp epsilontonos.smcp zeta.smcp eta.smcp etatonos.smcp theta.smcp iota.smcp iotadieresis.smcp iotadieresistonos.smcp iotatonos.smcp kappa.smcp lambda.smcp mu.smcp uni03BC.smcp nu.smcp xi.smcp omicron.smcp omicrontonos.smcp pi.smcp rho.smcp sigma.smcp sigma1.smcp tau.smcp upsilon.smcp upsilondieresis.smcp upsilontonos.smcp upsilondieresistonos.smcp phi.smcp chi.smcp psi.smcp omega.smcp omegatonos.smcp zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp copyright.pnum_onum uni2117.pnum_onum uni267E.pnum_onum Euro.smcp dollar.smcp afii61352.pnum_onum uni021D.smcp uni01CE.smcp uni01D0.smcp uni01D2.smcp uni01E9.smcp uni01E7.smcp uni01EB.smcp uni01ED.smcp uni01F5.smcp uni01F9.smcp uni021F.smcp uni0227.smcp uni0229.smcp uni022F.smcp uni1E0F.smcp uni1E0D.smcp uni1E25.smcp uni1E96.smcp uni1E2B.smcp uni1E3B.smcp uni1E37.smcp uni1E39.smcp uni1E43.smcp uni006D0310.smcp uni1E49.smcp uni1E45.smcp uni1E5F.smcp uni1E5B.smcp uni1E5D.smcp uni00720325.smcp uni007203250304.smcp uni00730331.smcp uni00730300.smcp uni1E6F.smcp uni1E6D.smcp uni1E97.smcp uni1E95.smcp uni1E93.smcp uni007A0324.smcp uni1E21.smcp uni1E41.smcp uni1E03.smcp uni1E23.smcp uni1E05.smcp uni1E07.smcp uni1E57.smcp uni1E87.smcp uni1E59.smcp uni1E89.smcp uni1E6B.smcp uni1E8B.smcp uni1E1F.smcp uni1E3F.smcp uni1E7F.smcp uni1E8F.smcp uni1E7D.smcp uni1E35.smcp uni1E33.smcp uni1E61.smcp uni1E0B.smcp uni01EF.smcp uni01FB.smcp
+%%END
+
+%%CLASS sups1
+%%GLYPHS  z j a b c d e f g h i k l m n o p q r s t u v w x y eacute egrave comma period hyphen hyphen.cap parenleft parenleft.cap parenright parenright.cap minus plus multiply equal divide zero.zero zero one two three four five six seven eight nine zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp zero.pnum_onum_zero zero.pnum_onum one.pnum_onum two.pnum_onum three.pnum_onum four.pnum_onum five.pnum_onum six.pnum_onum seven.pnum_onum eight.pnum_onum nine.pnum_onum zero.tnum_lnum one.tnum_lnum two.tnum_lnum three.tnum_lnum four.tnum_lnum five.tnum_lnum six.tnum_lnum seven.tnum_lnum eight.tnum_lnum nine.tnum_lnum zero.tnum_onum one.tnum_onum two.tnum_onum three.tnum_onum four.tnum_onum five.tnum_onum six.tnum_onum seven.tnum_onum eight.tnum_onum nine.tnum_onum dollar cent oneinferior twoinferior fourinferior threeinferior eightinferior fiveinferior seveninferior multiplyinferior divideinferior equal.inferior minus.inferior plus.inferior period.inferior comma.inferior dollar.inferior cent.inferior zeroinferior sixinferior parenleft.inferior parenright.inferior nineinferior zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+%%END
+
+%%CLASS sups2
+%%GLYPHS  z.superior j.superior a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior eacute.superior egrave.superior comma.superior period.superior minussuperior minussuperior parenleftsuperior parenleftsuperior parenrightsuperior parenrightsuperior minussuperior plussuperior multiplysuperior equalsuperior dividesuperior zerosuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior dollar.superior cent.superior onesuperior twosuperior foursuperior threesuperior eightsuperior fivesuperior sevensuperior multiplysuperior dividesuperior equalsuperior minussuperior plussuperior period.superior comma.superior dollar.superior cent.superior zerosuperior sixsuperior parenleftsuperior parenrightsuperior ninesuperior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior
+%%END
