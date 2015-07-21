@@ -1,5 +1,5 @@
 body{
-  background-color: #eee;
+  background-color: #fafafa;
 }
 p{
   font-family: SelinaOtech-Light;
@@ -252,6 +252,7 @@ footer>.container>h4{
 }
 .articleText{
   padding: 50px 0px;
+  background-color: #fafafa;
 }
 .articleText>.col-md-10>p{
   font-size: 24px;
@@ -283,6 +284,11 @@ footer>.container>h4{
   line-height: 36px;
   font-size: 24px;
 }
+
+.articleText>.col-md-10>img{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
 .articleText>.col-md-10>blockquote:after{
   content: "\f10e";
   font-family: FontAwesome;
@@ -294,9 +300,10 @@ footer>.container>h4{
   text-align: center;
 }
 .articleText>.col-md-10>blockquote{
-  background-color: #eee;
+  background-color: #fafafa;
   margin-top: 45px;
   margin-bottom: 45px;
+  border: none;
 }
 .articleText>.col-md-10>blockquote>p{
   font-size: 32px;
@@ -309,4 +316,8 @@ footer>.container>h4{
 li{
   font-family: SelinaOtech-Light;
   font-size: 24px;
+}
+.embed-responsive{
+  margin-top: 35px;
+  margin-bottom: 35px;
 }
