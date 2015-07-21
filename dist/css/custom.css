@@ -11,14 +11,6 @@ h1{
 .headlines{
   height: 700px;
 }
-@media(max-width: 776px){
-  .headlines{
-    height: 1400px;
-  }
-  .news>{
-    margin: 5px 0;
-  }
-}
 .headline{
   border: 6px #eee solid;
   overflow: hidden;
@@ -65,9 +57,13 @@ h1{
   transform-origin: center center;
   transform: scale(1.2);
 }
-.latestNews, .categoryLatestNews, .categoryLatestArticle, .popularArticles{
+.latestNews, .categoryLatestNews, .categoryLatestArticle{
   list-style: none;
   padding: 0;
+}
+.popularArticles{
+  list-style: none;
+  padding: 15px
 }
 .news{
   padding: 5px;
@@ -90,7 +86,6 @@ h1{
 
 .articles{
   padding: 5px;
-
 }
 .articles>div{
   background-color: white;
@@ -197,4 +192,21 @@ footer>.container>h4{
 }
 .articles>div>.data{
   padding-top: 0px;
+}
+
+@media(max-width: 776px){
+  .headlines{
+    height: 1400px;
+  }
+
+.headline#headline1, .headline#headline2, .headline#headline3, .headline#headline4{
+  height: 25%;
+}
+  .news>{
+    margin: 5px 0;
+  }
+
+  .categoryArticle, .categoryNews{
+    padding: 0px;
+  }
 }
