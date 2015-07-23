@@ -1,20 +1,17 @@
 body{
   background-color: #fafafa;
-}
-.author, .data, .meta, .articleMeta, .type, .comments{
-  font-family: MuseoCyrillic-100;
+  font-family: Segoe UI Light;
+  padding-top: 55px;
 }
 .data{
   font-size: 16px;
+  margin-bottom: 0;
 }
-.data>h2{
-  font-family: MuseoCyrillic-700;
+.author-image{
+  margin-right: 5px;
 }
 .main{
   padding-bottom: 50px;
-}
-.photoreference{
-  font-family: RotisSemiSansW1G-X;
 }
 h1{
   font-weight: bolder;
@@ -23,7 +20,7 @@ h1{
   height: 550px;
 }
 .headline{
-  border: 6px #eee solid;
+  border: 6px white solid;
   overflow: hidden;
 }
 .headline>.data{
@@ -121,14 +118,17 @@ h1{
 }
 .data>a{
   color: black;
+  text-decoration: none;
 }
 .meta{
   color: #666;
   margin: 0;
-  margin-bottom: 15px;
 }
-.latestWrapper, .categoryArticle, .categoryNews{
-  padding: 25px;
+.latestWrapper{
+  padding: 20px 0px;
+}
+.categoryLatestNews{
+  padding: 0px 0px;
 }
 h1{
   padding-right: 25px;
@@ -166,7 +166,7 @@ h1{
   background-color: #673AB7;
 }
 .cat-featured-image{
-  height: 200px;
+  height: 150px;
   background-size: cover;
 }
 footer{
@@ -177,6 +177,9 @@ footer{
 footer>.col-md-4>h4{
   font-weight: lighter;
   font-family: MuseoCyrillic-100;
+}
+.popular{
+  margin-top: 5px;
 }
 .popularArticle{
   padding: 5px;
@@ -199,9 +202,11 @@ footer>.col-md-4>h4{
 }
 .popularArticle>div>.articleMeta{
   padding: 10px 15px 0px 15px;
+  margin-top: 0px
 }
 .articles>div>.articleMeta{
   padding: 10px 15px 0px 15px;
+  margin-top: 0px
 }
 .articles>div>.data{
   padding-top: 0px;
@@ -257,25 +262,20 @@ footer>.col-md-4>h4{
 }
 
 .articleText>.col-md-10>h1{
-  font-family: 'MuseoCyrillic-700';
   font-size: 52px;
   padding: 0
 }
 .articleText>.col-md-10>h2{
-  font-family: 'MuseoCyrillic-700';
   font-size: 48px;
 }
 .articleText>.col-md-10>h3{
-  font-family: 'MuseoCyrillic-500';
   font-size: 36px;
 }
 .articleText>.col-md-10>h4{
-  font-family: 'MuseoCyrillic-500';
   font-size: 24px;
 }
 
 .articleText>.col-md-10>h5{
-  font-family: 'MuseoCyrillic-500';
   font-size: 18px;
 }
 .articleText>.col-md-10>p{
@@ -309,10 +309,8 @@ footer>.col-md-4>h4{
 .articleText>.col-md-10>blockquote>footer{
   font-size: 22px;
   background-color: inherit;
-  font-family: RotisSemiSansW1G-X;
 }
-li{
-  font-family: SelinaOtech-Light;
+.articleText>.col-md-10>li{
   font-size: 24px;
 }
 .embed-responsive{
@@ -327,7 +325,6 @@ li{
   margin-left: 5px;
   font-size: 18px;
   text-transform: uppercase;
-  font-family: MuseoCyrillic-100;
 }
 
 .footer-menu>li>i{
@@ -348,4 +345,77 @@ li{
 }
 .breakage{
   margin-right: 50px;
+}
+.share-buttons>a>.fa-facebook-official{
+  color: #3b5998;
+}
+.share-buttons>a>.fa-twitter-square{
+  color: #55acee;
+}
+.share-buttons>a>.fa-google-plus-square{
+  color: #dd4b39;
+}
+.nav>li>.facebook{
+  background-color: #3b5998;
+  padding-right: 22px;
+  padding-left: 22px;
+}
+.nav>li>.twitter{
+  background-color: #55acee;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav>li>.google{
+  background-color: #dd4b39;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.nav>li>.facebook>.soc-label{
+  color: white;
+  margin-left: 10px;
+}
+.nav>li>.twitter>.soc-label{
+  color: white;
+  margin-left: 10px;
+}
+.nav>li>.google>.soc-label{
+  color: white;
+  margin-left: 10px;
+}
+.nav>li>.facebook>.fa-facebook{
+  color: white;
+}
+.nav>li>.twitter>.fa-twitter{
+  color: white;
+}
+.nav>li>.google>.fa-google-plus{
+  color: white;
+}
+.nav>li>.facebook:hover{
+  background-color: white;
+}
+.nav>li>.twitter:hover{
+  background-color: white;
+}
+.nav>li>.google:hover{
+  background-color: white;
+}
+.nav>li>.facebook:hover>.fa-facebook{
+  color: #3b5998;
+}
+.nav>li>.twitter:hover>.fa-twitter{
+  color: #55acee;
+}
+.nav>li>.google:hover>.fa-google-plus{
+  color: #dd4b39;
+}
+.nav>li>.facebook:hover>.soc-label{
+  color: #3b5998;
+}
+.nav>li>.twitter:hover>.soc-label{
+  color: #55acee;
+}
+.nav>li>.google:hover>.soc-label{
+  color: #dd4b39;
 }
