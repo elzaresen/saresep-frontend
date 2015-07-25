@@ -1,7 +1,7 @@
 body{
   background-color: #fafafa;
-  font-family: Segoe UI Light;
-  padding-top: 55px;
+  font-family: OpenSans;
+  padding-top: 30px;
 }
 .data{
   font-size: 16px;
@@ -76,6 +76,7 @@ h1{
 }
 .news{
   padding: 5px;
+  font-family: OpenSans;
 }
 .news>div{
   background-color: white;
@@ -176,7 +177,7 @@ footer{
 }
 footer>.col-md-4>h4{
   font-weight: lighter;
-  font-family: MuseoCyrillic-100;
+  font-family: Open Sans;
 }
 .popular{
   margin-top: 5px;
@@ -239,10 +240,12 @@ footer>.col-md-4>h4{
 }
 .articleTitle{
   margin: 0;
+  font-family: PTSerif;
   font-size: 60px;
   padding-left: 60px;
 }
 .articleAuthor{
+  font-family: OpenSans;
   margin-top: 15px;
   padding-left: 60px;
   padding-right: 60px;
@@ -251,7 +254,7 @@ footer>.col-md-4>h4{
   height: 60px;  
 }
 .articleAuthor>span{
-  font-family: 'MuseoCyrillic-100';
+  font-family: OpenSans;
 }
 .articleText{
   padding: 50px 0px;
@@ -439,4 +442,20 @@ footer>.col-md-4>h4{
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   transition: 0.2s;
+}
+.navbar{
+  min-height: 30px;
+}
+.navbar-nav>li>a{
+  padding: 5px 15px;
+}
+.navbar-default{
+  border: none;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.navbar-default .navbar-toggle{
+  border: none;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+  background-color: inherit;
 }
